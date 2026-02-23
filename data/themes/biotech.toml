@@ -1,0 +1,22 @@
+# Theme metadata
+name = "biotech"
+
+[light]
+  # Primary (mint laser accent)
+  primary = "#A1CCA4" # buttons / primary accents
+
+  # Menu (deep slate / navy from background)
+  menu_primary = "#141625"       # top bar background
+  menu_text = "#DFDCDD"          # near-off-white text
+  menu_text_active = "#A1CCA4"   # active section highlight
+  menu_title = "#9593AB"         # muted lavender-gray for site title
+
+  # Links
+  link = "#2F6F57"               # darker mint for readable links on light bg
+  link_hover = "#D47887"         # warm pink/red glow accent (from the core)
+  link_decoration = "underline"
+
+  # Backgrounds (soft cool gray-lavender)
+  background = "#F2F1F4"
+  home_section_odd = "#ECEAF0"   # slightly tinted panel
+  home_section_even = "#F2F1F4"  # base background

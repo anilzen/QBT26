@@ -1,0 +1,88 @@
+# SITE SETUP
+# Guide: https://wowchemy.com/docs/getting-started/
+# Documentation: https://wowchemy.com/docs/
+# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
+
+# Appearance
+
+appearance:
+  theme_day: biotech
+  font: inter-serif
+  font_size: L
+
+# SEO
+
+marketing:
+  seo:
+    site_type: Organization
+    local_business_type: ''
+    org_name: ''
+    description: 'Quantum BioTechnology Conference at the University of Maryland.'
+    twitter: ''
+  # analytics:
+  #   google_analytics: 'G-QVJ078KYGW'
+  #   baidu_tongji: ''
+
+# Site header
+
+header:
+  navbar:
+    enable: true
+    align: l
+    show_logo: true
+    show_language: false
+    show_day_night: false
+    show_search: true
+    highlight_active_link: true
+
+# Site footer
+
+footer:
+  copyright:
+    notice: '© {year} <a href="https://anilzen.github.io">Anıl Zenginoğlu</a>. This work is licensed under {license}'
+    license:
+      enable: true
+      allow_derivatives: true
+      share_alike: true
+      allow_commercial: false
+
+# Localization
+
+locale:
+  date_format: 'Jan. 2, 2006'
+  time_format: '3:04 PM'
+  address_format: en-us
+
+# Site features
+
+features:
+  syntax_highlighter:
+    enable: false
+  math:
+    enable: true
+  privacy_pack:
+    enable: false
+  repository:
+    url: 'https://github.com/anilzen/QBT2026/'
+    content_dir: content
+    branch: main
+  avatar:
+    gravatar: false
+    shape: circle
+  search:
+    provider: wowchemy
+  # map:
+  #   provider: 'mapnik'
+  #   api_key: ''
+  #   zoom: 15
+
+# Extensions
+
+extensions:
+  academicons:
+    enable: true
+
+# Citation style
+publications:
+  date_format: January 2006
+  citation_style: apa
