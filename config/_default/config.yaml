@@ -4,7 +4,8 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Quantum BioTechnology Conference # Website name
-baseURL: 'https://anilzen.github.io/QBT26/'
+# Keep baseURL neutral locally; CI sets the production GitHub Pages URL.
+baseURL: '/'
 
 ############################
 ## LANGUAGE
