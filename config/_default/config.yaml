@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Quantum BioTechnology Conference # Website name
-# baseURL: 'https://qtd2024.umd.edu' # Website URL
+baseURL: 'https://anilzen.github.io/QBT26/'
 
 ############################
 ## LANGUAGE
