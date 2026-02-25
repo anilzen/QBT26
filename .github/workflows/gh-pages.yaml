@@ -40,14 +40,7 @@ jobs:
 
       - name: Build
         run: |
-          REPO_NAME="${GITHUB_REPOSITORY#*/}"
-          OWNER="${GITHUB_REPOSITORY_OWNER}"
-
-          if [ "${REPO_NAME,,}" = "${OWNER,,}.github.io" ]; then
-            BASE_URL="https://${OWNER}.github.io/"
-          else
-            BASE_URL="https://${OWNER}.github.io/${REPO_NAME}/"
-          fi
+          BASE_URL="https://qbt26.umd.edu/"
 
           echo "Building with baseURL=${BASE_URL}"
           hugo --minify --baseURL "${BASE_URL}"
@@ -58,4 +51,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
           publish_branch: gh-pages
-          cname: ""
+          cname: qbt26.umd.edu
