@@ -27,6 +27,7 @@ design:
 
 <div class="speaker"><span class="name">Matthew Brookes</span><span class="affil">University of Nottingham</span></div>
 <div class="speaker"><span class="name">Andrea Candini</span><span class="affil">CNR-ISOF (Italy)</span></div>
+<div class="speaker"><span class="name">Yun Chen</span><span class="affil">JHU</span></div>
 
 <!-- <div class="speaker"><span class="name">Adam Cohen</span><span class="affil">Harvard University</span></div> -->
 <!-- <div class="speaker"><span class="name">Colin Connolly</span><span class="affil">Quantum Diamond Technologies Inc. (QDTI)</span></div> -->
@@ -66,6 +67,7 @@ design:
 
 <!-- <div class="speaker"><span class="name">Allison Squires</span><span class="affil">University of Chicago (PME)</span></div> -->
 <!-- <div class="speaker"><span class="name">Harrison Steel</span><span class="affil">University of Oxford</span></div> -->
+<div class="speaker"><span class="name">Stoyno Stoynov</span><span class="affil">Institute of Molecular Biology, Coordinator of Sofia Euro-bioimaging Node</span></div>
 
 <!-- <div class="speaker"><span class="name">Mouzhe Xie</span><span class="affil">Arizona State University</span></div> -->
 <div class="speaker"><span class="name">Vladislav Yakovlev</span><span class="affil">Texas A&amp;M University</span></div>
