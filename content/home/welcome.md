@@ -10,7 +10,7 @@ design:
 ---
 
 {{% callout note %}}
-To register, please click [here](https://docs.google.com/forms/d/e/1FAIpQLSeiFx61CtJoK9gJRp4f8DBr82qrm0X2TdaPwN3_XsK3jzBjLA/viewform).
+To register, please click [here](https://forms.gle/mrQ4pppH3WHoaFkp7).
 {{% /callout %}}
 
 The Quantum BioTechnology Conference (QBT26) aims to highlight the current state of the art in quantum sensing, quantum reporters, quantum control, and quantum analysis of complex, large scale biological data and to identify opportunities in technology development. 
