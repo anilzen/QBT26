@@ -44,7 +44,6 @@ design:
 <div class="speaker"><span class="name">John T. Fourkas</span><span class="affil">University of Maryland (Chemistry &amp; Biochemistry; IPST)</span></div>
 <div class="speaker"><span class="name">Cheng Gong</span><span class="affil">University of Maryland (ECE)</span></div>
 
-<div class="speaker"><span class="name">Ted Goodson</span><span class="affil">University of Michigan</span></div>
 <div class="speaker"><span class="name">Rebecca Frank Hayward*</span><span class="affil">Nonfiction Laboratories</span></div>
 
 <div class="speaker"><span class="name">Alexander Huck*</span><span class="affil">Technical University of Denmark (DTU)</span></div>
