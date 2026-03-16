@@ -46,7 +46,7 @@ design:
 
 <div class="speaker"><span class="name">Rebecca Frank Hayward*</span><span class="affil">Nonfiction Laboratories</span></div>
 
-<div class="speaker"><span class="name">Alexander Huck*</span><span class="affil">Technical University of Denmark (DTU)</span></div>
+<div class="speaker"><span class="name">Alexander Huck</span><span class="affil">Technical University of Denmark (DTU)</span></div>
 <!-- <div class="speaker"><span class="name">Alexej Jerschow</span><span class="affil">New York University</span></div> -->
 
 <div class="speaker"><span class="name">Ralph Jimenez*</span><span class="affil">JILA / University of Colorado Boulder</span></div>
