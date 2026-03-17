@@ -22,7 +22,7 @@ design:
 <div class="speaker"><span class="name">Clarice Aiello</span><span class="affil">UCLA; Quantum Biology Institute</span></div>
 <div class="speaker"><span class="name">David Awschalom</span><span class="affil">University of Chicago (PME); Argonne National Laboratory</span></div>
 <div class="speaker"><span class="name">Regina Barzilay</span><span class="affil">MIT</span></div>
-<div class="speaker"><span class="name">Valentina Benfenati</span><span class="affil">CNR-ISOF (National Research Council of Italy)</span></div>
+<!-- <div class="speaker"><span class="name">Valentina Benfenati</span><span class="affil">CNR-ISOF (National Research Council of Italy)</span></div> -->
 <!-- <div class="speaker"><span class="name">John Blanchard</span><span class="affil">University of Maryland (QTC / IREAP)</span></div> -->
 
 <!-- <div class="speaker"><span class="name">Dirk Bouwmeester</span><span class="affil">UC Santa Barbara</span></div> -->
