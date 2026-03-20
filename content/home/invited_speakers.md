@@ -82,6 +82,7 @@ design:
 <div class="speaker"><span class="name">Stoyno Stoynov*</span><span class="affil">Institute of Molecular Biology, Coordinator of Sofia Euro-bioimaging Node</span></div>
 
 <div class="speaker"><span class="name">Ronald L. Walsworth</span><span class="affil">University of Maryland (QTC; Physics &amp; ECE)</span></div>
+<div class="speaker"><span class="name">Katherine Xiang</span><span class="affil">Harvard University</span></div>
 <!-- <div class="speaker"><span class="name">Mouzhe Xie</span><span class="affil">Arizona State University</span></div> -->
 <div class="speaker"><span class="name">Vladislav Yakovlev</span><span class="affil">Texas A&amp;M University</span></div>
 <div class="speaker"><span class="name">Nicole Yunger Halpern</span><span class="affil">NIST (QuICS / JQI)</span></div>
