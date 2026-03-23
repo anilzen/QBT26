@@ -39,6 +39,7 @@ design:
 
 <div class="speaker"><span class="name">Scott Cushing*</span><span class="affil">Caltech</span></div>
 <!-- <div class="speaker"><span class="name">Massimiliano Dispenza*</span><span class="affil">Leonardo (Quantum Technologies Lab)</span></div> -->
+<div class="speaker"><span class="name">Michele Dougherty</span><span class="affil">Mayo Clinic</span></div>
 
 <div class="speaker"><span class="name">Greg Engel*</span><span class="affil">University of Chicago (PME)</span></div>
 <div class="speaker"><span class="name">John T. Fourkas</span><span class="affil">University of Maryland (Chemistry &amp; Biochemistry; IPST)</span></div>
