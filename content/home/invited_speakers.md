@@ -19,7 +19,7 @@ design:
 
 <div class="speakers-grid">
 
-<div class="speaker"><span class="name">Clarice Aiello</span><span class="affil">UCLA; Quantum Biology Institute</span></div>
+<div class="speaker"><span class="name">Clarice Aiello</span><span class="affil">Quantum Biology Institute</span></div>
 <div class="speaker"><span class="name">David Awschalom</span><span class="affil">University of Chicago (PME); Argonne National Laboratory</span></div>
 <div class="speaker"><span class="name">Regina Barzilay</span><span class="affil">MIT</span></div>
 <!-- <div class="speaker"><span class="name">Valentina Benfenati</span><span class="affil">CNR-ISOF (National Research Council of Italy)</span></div> -->
@@ -82,6 +82,7 @@ design:
 <div class="speaker"><span class="name">Stoyno Stoynov*</span><span class="affil">Institute of Molecular Biology, Coordinator of Sofia Euro-bioimaging Node</span></div>
 
 <div class="speaker"><span class="name">Ronald L. Walsworth</span><span class="affil">University of Maryland (QTC; Physics &amp; ECE)</span></div>
+<div class="speaker"><span class="name">Mikolaj A. Wieczorek</span><span class="affil">Mayo Clinic Florida</span></div>
 <div class="speaker"><span class="name">Katherine Xiang</span><span class="affil">Harvard University</span></div>
 <!-- <div class="speaker"><span class="name">Mouzhe Xie</span><span class="affil">Arizona State University</span></div> -->
 <div class="speaker"><span class="name">Vladislav Yakovlev</span><span class="affil">Texas A&amp;M University</span></div>
