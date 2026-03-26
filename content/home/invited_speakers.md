@@ -56,12 +56,12 @@ design:
 <!-- <div class="speaker"><span class="name">Philipp Kukura</span><span class="affil">University of Oxford</span></div> -->
 
 <div class="speaker"><span class="name">Don Lamb</span><span class="affil">LMU Munich (Chemistry)</span></div>
-<div class="speaker"><span class="name">Aditya Rajagopal</span><span class="affil">Esperto Medical</span></div>
-<div class="speaker"><span class="name">Qizhong Liang</span><span class="affil">JILA / University of Colorado Boulder</span></div>
+<div class="speaker"><span class="name">Robert Lambeth</span><span class="affil">ARL</span></div>
 <div class="speaker"><span class="name">Arnold Levine</span><span class="affil">Princeton University (Emeritus)</span></div>
+<div class="speaker"><span class="name">Zoya Leonenko</span><span class="affil">University of Waterloo</span></div>
+<div class="speaker"><span class="name">Qizhong Liang</span><span class="affil">JILA / University of Colorado Boulder</span></div>
 <div class="speaker"><span class="name">Peter Littlewood</span><span class="affil">University of Chicago (Physics; James Franck Institute)</span></div>
 <div class="speaker"><span class="name">Wolfgang Losert</span><span class="affil">University of Maryland (Physics; IPST)</span></div>
-<div class="speaker"><span class="name">Zoya Leonenko</span><span class="affil">University of Waterloo</span></div>
 <div class="speaker"><span class="name">Peter Maurer</span><span class="affil">University of Chicago (PME)</span></div>
 <div class="speaker"><span class="name">Katherine Mirica*</span><span class="affil">Dartmouth College</span></div>
 
@@ -71,8 +71,9 @@ design:
 <div class="speaker"><span class="name">Prineha Narang</span><span class="affil">UCLA (Physical Sciences; ECE)</span></div>
 <div class="speaker"><span class="name">José Onuchic</span><span class="affil">Rice University</span></div>
 <div class="speaker"><span class="name">Birol Ozturk</span><span class="affil">Morgan State University (Physics)</span></div>
-<!-- <div class="speaker"><span class="name">Alex Pearson</span><span class="affil">University of Chicago Medicine</span></div> -->
+<div class="speaker"><span class="name">Alex Pearson</span><span class="affil">University of Chicago Medicine</span></div>
 <div class="speaker"><span class="name">Martin Plenio</span><span class="affil">Ulm University</span></div>
+<div class="speaker"><span class="name">Aditya Rajagopal</span><span class="affil">Esperto Medical</span></div>
 
 <!-- <div class="speaker"><span class="name">Matt Rosen</span><span class="affil">MGH Martinos Center</span></div> -->
 <div class="speaker"><span class="name">George Schatz</span><span class="affil">Northwestern University</span></div>
