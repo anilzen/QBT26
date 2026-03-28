@@ -127,9 +127,9 @@ view: compact
     <div class="agenda-content">
       <strong>Welcoming Remarks</strong>
       <ul>
-        <li>Darryl Pines (President, UMD)</li>
-        <li>Pat O’Shea (VPR)</li>
-        <li>Amitabh Varshney (Dean, CMNS, UMD)</li>
+        <li>Darryl Pines (President, University of Maryland)</li>
+        <li>Pat O’Shea (Vice President for Research, University of Maryland)</li>
+        <li>Amitabh Varshney (Dean, CMNS, University of Maryland)</li>
         <li>Welcome from NSF</li>
       </ul>
     </div>
@@ -139,12 +139,12 @@ view: compact
     <div class="agenda-time">9:20 AM</div>
     <div class="agenda-content">
       <strong>Session 1: Nexus of Quantum Technology and Biology</strong><br>
-      <em>Chair: Peter Maurer</em>
+      <em>Chair: Peter Maurer (University of Chicago, PME)</em>
       <ul>
         <li><strong>9:20 AM:</strong> Workshop Aims — Wolfgang Losert (University of Maryland, Physics; IPST)</li>
-        <li><strong>9:30 AM:</strong> Quantum – from Science to Impact — Gretchen Campbell (University of Maryland, Quantum Research &amp; Education)</li>
-        <li><strong>10:00 AM:</strong> Cancer: The Problem of Rapid, Early, Inexpensive Diagnosis — Arnold Levine (Princeton University, Emeritus)</li>
-        <li><strong>10:30 AM:</strong> Quantum Technology for Biology and Health — Lincoln Carr (Colorado School of Mines, Physics / Quantum Engineering)</li>
+        <li><strong>9:40 AM:</strong> Quantum – from Science to Impact — Gretchen Campbell (University of Maryland, Quantum Research &amp; Education)</li>
+        <li><strong>10:00 AM:</strong> Cancer: The Problem of Rapid, Early, Inexpensive Diagnosis — Arnold Levine (Princeton University)</li>
+        <li><strong>10:20 AM:</strong> Quantum Technology for Biology and Health — Lincoln Carr (Colorado School of Mines, Physics / Quantum Engineering)</li>
       </ul>
     </div>
   </div>
@@ -158,7 +158,7 @@ view: compact
     <div class="agenda-time">11:20 AM</div>
     <div class="agenda-content">
       <strong>Session 2: Quantum in Biology</strong><br>
-      <em>Chair: Wolfgang Losert</em>
+      <em>Chair: Wolfgang Losert (University of Maryland, Physics; IPST)</em>
       <ul>
         <li><strong>11:20 AM:</strong> Quantum metrology enhanced by effective time reversal — Nicole Yunger Halpern (NIST / QuICS / JQI)</li>
         <li><strong>11:40 AM:</strong> Quantum Control, Hyperpolarisation &amp; Signal Processing for Quantum Sensing in the Life Sciences — Martin Plenio (Ulm University)</li>
@@ -175,17 +175,17 @@ view: compact
       <strong>Lunch &amp; Roundtable Discussions on Biological &amp; Medical Opportunities</strong>
       <p>Attendees are encouraged to move between tables; each table has a discussion leader and student scribe.</p>
       <ul>
-        <li>Tracking Molecular Interactions (Molecular Biophysics) — Don Lamb, LMU Munich</li>
-        <li>Cell Signaling — José Onuchic, Rice</li>
+        <li>Tracking Molecular Interactions (Molecular Biophysics) — Don Lamb, LMU Munich (Chemistry)</li>
+        <li>Cell Signaling — José Onuchic, Rice University</li>
         <li>Clinical Imaging — Michele Dougherty, Mayo Clinic</li>
-        <li>Cell Mechanics — Maria Mukhina, UMD</li>
-        <li>Immune System and Cancer — Arnold Levine, Princeton</li>
-        <li>Aging — Kan Cao, UMD</li>
-        <li>Tendon Disorders — Catherine Kuo, UMD</li>
-        <li>Oncology — Ken Pienta, JHU</li>
-        <li>Continuous monitoring in biology and medicine — Aditya Rajagopal, Caltech</li>
-        <li>BRAIN Initiative topic 1 — Grace Hwang, NIH</li>
-        <li>BRAIN Initiative topic 2 — Joe Monaco, NIH</li>
+        <li>Cell Mechanics — Maria Mukhina, University of Maryland (Physics)</li>
+        <li>Immune System and Cancer — Arnold Levine, Princeton University</li>
+        <li>Aging — Kan Cao, University of Maryland</li>
+        <li>Diagnostic Needs to Advance Orthopaedic Clinical Care — Catherine Kuo, University of Maryland</li>
+        <li>Oncology — Ken Pienta, Johns Hopkins University</li>
+        <li>Continuous monitoring in biology and medicine — Aditya Rajagopal, Esperto Medical</li>
+        <li>BRAIN Initiative topic 1 — Grace Hwang, National Institutes of Health</li>
+        <li>BRAIN Initiative topic 2 — Joe Monaco, National Institutes of Health</li>
       </ul>
     </div>
   </div>
@@ -194,11 +194,12 @@ view: compact
     <div class="agenda-time">2:00 PM</div>
     <div class="agenda-content">
       <strong>Session 3: Quantum Biosensors</strong><br>
-      <em>Chairs: Warwick Bowen (University of Queensland, ARC Centre for Quantum Biotechnology); Prineha Narang (UCLA, Physical Sciences; ECE)</em>
+      <em>Chair: Warwick Bowen (University of Queensland, ARC Centre for Quantum Biotechnology)</em>
       <ul>
-        <li>Quantum Diamond NMR Microscopy for Biochemical Analysis — John Blanchard (UMD)</li>
-        <li>Quantum Biomechanics — Vladislav Yakovlev (Texas A&amp;M University)</li>
-        <li>Engineered Proteins for Quantum Sensing and Actuation in Cells — Yun Chen (JHU)</li>
+        <li><strong>2:00 PM:</strong> Quantum Diamond NMR Microscopy for Biochemical Analysis — John Blanchard (University of Maryland, QTC / IREAP)</li>
+        <li><strong>2:20 PM:</strong> Quantum Biomechanics — Vladislav Yakovlev (Texas A&amp;M University)</li>
+        <li><strong>2:40 PM:</strong> Engineered Proteins for Quantum Sensing and Actuation in Cells — Yun Chen (Johns Hopkins University)</li>
+        <li><strong>3:00 PM:</strong> Topic TBD — Prineha Narang (UCLA, Physical Sciences; ECE)</li>
       </ul>
     </div>
   </div>
@@ -217,10 +218,13 @@ view: compact
     <div class="agenda-time">4:00 PM</div>
     <div class="agenda-content">
       <strong>Session 4: Health</strong><br>
-      <em>Chairs: Krastan Blagoev; José Onuchic (Rice University); Catherine Kuo (UMD); Ken Pienta (JHU)</em>
+      <em>Chair: Krastan Blagoev (National Science Foundation, Physics of Living Systems)</em>
       <ul>
-        <li>Solving an Unsolved Biomedical Problem with First-Principles Physics: Measuring True Non-invasive, Continuous Blood Pressure — Aditya Rajagopal, Caltech</li>
-        <li>Advancing Brain-Computer Interfaces to Improve Health with Quantum Technologies — Mikolaj A. Wieczorek (Mayo Clinic Florida) and Michele Dougherty (Mayo Clinic)</li>
+        <li><strong>4:00 PM:</strong> The Physics of Cancer Metabolism — José Onuchic (Rice University)</li>
+        <li><strong>4:20 PM:</strong> Ken Pienta (Johns Hopkins University)</li>
+        <li><strong>4:40 PM:</strong> Challenges in Diagnosing Musculoskeletal Disorders and Diseases — Catherine Kuo (University of Maryland)</li>
+        <li><strong>5:00 PM:</strong> Solving an Unsolved Biomedical Problem with First-Principles Physics: Measuring True Non-invasive, Continuous Blood Pressure — Aditya Rajagopal, Esperto Medical</li>
+        <li><strong>5:20 PM:</strong> Advancing Brain-Computer Interfaces to Improve Health with Quantum Technologies — Miko Wieczorek (Mayo Clinic Florida) and Michele Dougherty (Mayo Clinic)</li>
       </ul>
     </div>
   </div>
@@ -246,12 +250,12 @@ view: compact
     <div class="agenda-time">9:00 AM</div>
     <div class="agenda-content">
       <strong>Session 5: Quantum Phenomena</strong><br>
-      <em>Chair: Nicole Yunger Halpern</em>
+      <em>Chair: Nicole Yunger Halpern (NIST / QuICS / JQI)</em>
       <ul>
-        <li>Organizing Quantum Biology — Clarice Aiello (Quantum Biology Institute)</li>
-        <li>Dynamics of cellular processes through live-cell imaging — Stoyno Stoynov (Institute of Molecular Biology, Coordinator of Sofia Euro-BioImaging Node)</li>
-        <li>Questions and Approaches in Molecular Single Molecule Biophysics — Don Lamb (LMU Munich, Chemistry)</li>
-        <li>Isotopic effects in neural functioning — Zoya Leonenko (University of Waterloo)</li>
+        <li><strong>9:00 AM:</strong> Organizing Quantum Biology — Clarice Aiello (Quantum Biology Institute)</li>
+        <li><strong>9:20 AM:</strong> Dynamics of cellular processes through live-cell imaging — Stoyno Stoynov (Institute of Molecular Biology, Coordinator of Sofia Euro-BioImaging Node)</li>
+        <li><strong>9:40 AM:</strong> Questions and Approaches in Molecular Single Molecule Biophysics — Don Lamb (LMU Munich, Chemistry)</li>
+        <li><strong>10:00 AM:</strong> Isotopic effects in neural functioning — Zoya Leonenko (University of Waterloo)</li>
       </ul>
     </div>
   </div>
@@ -270,12 +274,12 @@ view: compact
     <div class="agenda-time">11:00 AM</div>
     <div class="agenda-content">
       <strong>Session 6: Quantum Biosensors 2</strong><br>
-      <em>Chair: Don Lamb</em>
+      <em>Chair: Don Lamb (LMU Munich, Chemistry)</em>
       <ul>
-        <li>NV Diamond — Andrea Candini (CNR-ISOF, Italy)</li>
-        <li>Bringing multiplexed ultrasensitive diagnostics to near-patient use with quantum sensing — Colin Connolly</li>
-        <li>Topic TBD — Alexander Pearson (University of Chicago Medicine)</li>
-        <li>TBA industry</li>
+        <li><strong>11:00 AM:</strong> NV Diamond — Andrea Candini (CNR-ISOF, Italy)</li>
+        <li><strong>11:20 AM:</strong> Bringing multiplexed ultrasensitive diagnostics to near-patient use with quantum sensing — Colin Connolly (Quantum Diamond Technologies Inc. (QDTI))</li>
+        <li><strong>11:40 AM:</strong> Topic TBD — Alex Pearson (University of Chicago Medicine)</li>
+        <li><strong>12:00 PM:</strong> TBA industry</li>
       </ul>
     </div>
   </div>
@@ -291,16 +295,15 @@ view: compact
       <strong>Lunch &amp; Roundtable Discussions on Biological &amp; Medical Opportunities</strong>
       <p>Attendees are encouraged to move between tables; each table has a discussion leader, funder, and student scribe.</p>
       <ul>
-        <li>Medical Oncology — Alexander Pearson, University of Chicago Medicine</li>
-        <li>Tracking Molecular Interactions (Molecular Biophysics) — Don Lamb, LMU</li>
-        <li>Cell Signaling — José Onuchic, Rice</li>
+        <li>Medical Oncology — Alex Pearson, University of Chicago Medicine</li>
+        <li>Tracking Molecular Interactions (Molecular Biophysics) — Don Lamb, LMU Munich (Chemistry)</li>
+        <li>Cell Signaling — José Onuchic, Rice University</li>
         <li>Clinical Imaging — Michele Dougherty, Mayo Clinic</li>
-        <li>Cell Mechanics — Maria Mukhina, UMD</li>
-        <li>Immune System and Cancer — Arnold Levine, Princeton</li>
-        <li>Tendon Disorders — Catherine Kuo, UMD</li>
-        <li>Oncology — Ken Pienta</li>
-        <li>BRAIN Initiative topic 1 — Grace Hwang, NIH</li>
-        <li>BRAIN Initiative topic 2 — Joe Monaco, NIH</li>
+        <li>Cell Mechanics — Maria Mukhina, University of Maryland (Physics)</li>
+        <li>Immune System and Cancer — Arnold Levine, Princeton University</li>
+        <li>Oncology — Ken Pienta, Johns Hopkins University</li>
+        <li>BRAIN Initiative topic 1 — Grace Hwang, National Institutes of Health</li>
+        <li>BRAIN Initiative topic 2 — Joe Monaco, National Institutes of Health</li>
       </ul>
     </div>
   </div>
@@ -309,12 +312,12 @@ view: compact
     <div class="agenda-time">2:00 PM</div>
     <div class="agenda-content">
       <strong>Session 7: Spin-Based Quantum Biosensors</strong><br>
-      <em>Chair: Ronald L. Walsworth</em>
+      <em>Chair: Ronald L. Walsworth (University of Maryland, QTC; Physics &amp; ECE)</em>
       <ul>
-        <li>NV Ensemble Magnetic Field Imaging via Laser Raster Scanning — Alexander Huck (Technical University of Denmark)</li>
-        <li>Early Detection of Alzheimer’s Disease Risk by Monolayer Quantum Materials — Cheng Gong (University of Maryland)</li>
-        <li>Topic TBD — Songi Han</li>
-        <li>Quantum Magnetometers for Biosensing Applications — Birol Ozturk (Morgan State)</li>
+        <li><strong>2:00 PM:</strong> NV Ensemble Magnetic Field Imaging via Laser Raster Scanning — Alexander Huck (Technical University of Denmark)</li>
+        <li><strong>2:20 PM:</strong> Early Detection of Alzheimer’s Disease Risk by Monolayer Quantum Materials — Cheng Gong (University of Maryland)</li>
+        <li><strong>2:40 PM:</strong> Topic TBD — Songi Han (Northwestern University, Chemistry)</li>
+        <li><strong>3:00 PM:</strong> Quantum Magnetometers for Biosensing Applications — Birol Ozturk (Morgan State University, Physics)</li>
       </ul>
     </div>
   </div>
@@ -333,10 +336,10 @@ view: compact
     <div class="agenda-time">4:00 PM</div>
     <div class="agenda-content">
       <strong>Funders Panel</strong><br>
-      <em>Moderator: Krastan Blagoev (NSF)</em>
+      <em>Moderator: Krastan Blagoev (National Science Foundation, Physics of Living Systems)</em>
       <ul>
-        <li>Quantum Biomedical Innovation and Technologies — Geetha Senthil (NIH)</li>
-        <li>Robert Lambeth (ARL)</li>
+        <li>Quantum Biomedical Innovation and Technologies — Geetha Senthil (National Institutes of Health (NCATS))</li>
+        <li>Robert Lambeth (Army Research Laboratory)</li>
         <li>TBA</li>
         <li>TBA</li>
       </ul>
@@ -359,12 +362,12 @@ view: compact
     <div class="agenda-time">9:00 AM</div>
     <div class="agenda-content">
       <strong>Session 8: Photonic Quantum Sensing</strong><br>
-      <em>Chair: Avik Dutt</em>
+      <em>Chair: Avik Dutt (University of Maryland)</em>
       <ul>
-        <li>Sensing based on entangled two-photon absorption — George Schatz (Northwestern University)</li>
-        <li>Topic TBD — John T. Fourkas (University of Maryland, Chemistry &amp; Biochemistry; IPST)</li>
-        <li>Collective quantum phenomena at room temperature — Peter Littlewood (University of Chicago, Physics; James Franck Institute)</li>
-        <li>Topic TBD — Qizhong Liang</li>
+        <li><strong>9:00 AM:</strong> Sensing based on entangled two-photon absorption — George Schatz (Northwestern University)</li>
+        <li><strong>9:20 AM:</strong> Topic TBD — John T. Fourkas (University of Maryland, Chemistry &amp; Biochemistry; IPST)</li>
+        <li><strong>9:40 AM:</strong> Collective quantum phenomena at room temperature — Peter Littlewood (University of Chicago, Physics; James Franck Institute)</li>
+        <li><strong>10:00 AM:</strong> Topic TBD — Qizhong Liang (JILA / University of Colorado Boulder)</li>
       </ul>
     </div>
   </div>
@@ -383,11 +386,11 @@ view: compact
     <div class="agenda-time">11:00 AM</div>
     <div class="agenda-content">
       <strong>Session 9: Quantum Centers &amp; Tech. Transfer</strong><br>
-      <em>Chair: Gretchen Campbell</em>
+      <em>Chair: Gretchen Campbell (University of Maryland, Quantum Research &amp; Education)</em>
       <ul>
-        <li>Topic TBD — David Awschalom (University of Chicago, PME; Argonne National Laboratory)</li>
-        <li>Quantum-enhanced and Quantum-limited biological imaging technologies — Warwick Bowen (University of Queensland, ARC Centre for Quantum Biotechnology)</li>
-        <li>Quantum Technology Center — Ronald L. Walsworth</li>
+        <li><strong>11:00 AM:</strong> Topic TBD — David Awschalom (University of Chicago, PME; Argonne National Laboratory)</li>
+        <li><strong>11:20 AM:</strong> Quantum-enhanced and Quantum-limited biological imaging technologies — Warwick Bowen (University of Queensland, ARC Centre for Quantum Biotechnology)</li>
+        <li><strong>11:40 AM:</strong> Quantum Technology Center — Ronald L. Walsworth (University of Maryland, QTC; Physics &amp; ECE)</li>
       </ul>
     </div>
   </div>

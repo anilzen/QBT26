@@ -33,7 +33,7 @@ design:
 <div class="speaker"><span class="name">Gretchen Campbell</span><span class="affil">University of Maryland (Quantum Research &amp; Education)</span></div>
 <div class="speaker"><span class="name">Andrea Candini</span><span class="affil">CNR-ISOF (Italy)</span></div>
 <div class="speaker"><span class="name">Lincoln Carr</span><span class="affil">Colorado School of Mines (Physics / Quantum Engineering)</span></div>
-<div class="speaker"><span class="name">Yun Chen</span><span class="affil">JHU</span></div>
+<div class="speaker"><span class="name">Yun Chen</span><span class="affil">Johns Hopkins University</span></div>
 
 <!-- <div class="speaker"><span class="name">Adam Cohen</span><span class="affil">Harvard University</span></div> -->
 <div class="speaker"><span class="name">Colin Connolly</span><span class="affil">Quantum Diamond Technologies Inc. (QDTI)</span></div>
@@ -55,8 +55,9 @@ design:
 <div class="speaker"><span class="name">Ralph Jimenez*</span><span class="affil">JILA / University of Colorado Boulder</span></div>
 <!-- <div class="speaker"><span class="name">Philipp Kukura</span><span class="affil">University of Oxford</span></div> -->
 
+<div class="speaker"><span class="name">Catherine Kuo</span><span class="affil">University of Maryland</span></div>
 <div class="speaker"><span class="name">Don Lamb</span><span class="affil">LMU Munich (Chemistry)</span></div>
-<div class="speaker"><span class="name">Robert Lambeth</span><span class="affil">ARL</span></div>
+<div class="speaker"><span class="name">Robert Lambeth</span><span class="affil">Army Research Laboratory</span></div>
 <div class="speaker"><span class="name">Arnold Levine</span><span class="affil">Princeton University (Emeritus)</span></div>
 <div class="speaker"><span class="name">Zoya Leonenko</span><span class="affil">University of Waterloo</span></div>
 <div class="speaker"><span class="name">Qizhong Liang</span><span class="affil">JILA / University of Colorado Boulder</span></div>
@@ -72,6 +73,7 @@ design:
 <div class="speaker"><span class="name">José Onuchic</span><span class="affil">Rice University</span></div>
 <div class="speaker"><span class="name">Birol Ozturk</span><span class="affil">Morgan State University (Physics)</span></div>
 <div class="speaker"><span class="name">Alex Pearson</span><span class="affil">University of Chicago Medicine</span></div>
+<div class="speaker"><span class="name">Ken Pienta</span><span class="affil">Johns Hopkins University</span></div>
 <div class="speaker"><span class="name">Martin Plenio</span><span class="affil">Ulm University</span></div>
 <div class="speaker"><span class="name">Aditya Rajagopal</span><span class="affil">Esperto Medical</span></div>
 
@@ -82,7 +84,7 @@ design:
 <!-- <div class="speaker"><span class="name">Gabriela Schlau-Cohen</span><span class="affil">MIT</span></div> -->
 
 <!-- <div class="speaker"><span class="name">Mark Schnitzer</span><span class="affil">Stanford University</span></div> -->
-<div class="speaker"><span class="name">Geetha Senthil</span><span class="affil">NIH (NCATS)</span></div>
+<div class="speaker"><span class="name">Geetha Senthil</span><span class="affil">National Institutes of Health (NCATS)</span></div>
 <div class="speaker"><span class="name">David Simpson*</span><span class="affil">University of Melbourne</span></div>
 
 <!-- <div class="speaker"><span class="name">Allison Squires</span><span class="affil">University of Chicago (PME)</span></div> -->
