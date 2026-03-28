@@ -176,7 +176,7 @@ view: compact
       <p>Attendees are encouraged to move between tables; each table has a discussion leader and student scribe.</p>
       <ul>
         <li>Tracking Molecular Interactions (Molecular Biophysics) — Don Lamb, LMU Munich</li>
-        <li>Cell Signaling — Jose Onuchic, Rice</li>
+        <li>Cell Signaling — José Onuchic, Rice</li>
         <li>Clinical Imaging — Michele Dougherty, Mayo Clinic</li>
         <li>Cell Mechanics — Maria Mukhina, UMD</li>
         <li>Immune System and Cancer — Arnold Levine, Princeton</li>
@@ -197,7 +197,7 @@ view: compact
       <em>Chairs: Warwick Bowen (University of Queensland, ARC Centre for Quantum Biotechnology); Prineha Narang (UCLA, Physical Sciences; ECE)</em>
       <ul>
         <li>Quantum Diamond NMR Microscopy for Biochemical Analysis — John Blanchard (UMD)</li>
-        <li>Quantum Biomechanics — Vlad Jakovlev (Texas A&amp;M University)</li>
+        <li>Quantum Biomechanics — Vladislav Yakovlev (Texas A&amp;M University)</li>
         <li>Engineered Proteins for Quantum Sensing and Actuation in Cells — Yun Chen (JHU)</li>
       </ul>
     </div>
@@ -217,10 +217,10 @@ view: compact
     <div class="agenda-time">4:00 PM</div>
     <div class="agenda-content">
       <strong>Session 4: Health</strong><br>
-      <em>Chairs: Krastan Blagoev; Jose Onuchic (Rice University); Catherine Kuo (UMD); Ken Pienta (JHU)</em>
+      <em>Chairs: Krastan Blagoev; José Onuchic (Rice University); Catherine Kuo (UMD); Ken Pienta (JHU)</em>
       <ul>
         <li>Solving an Unsolved Biomedical Problem with First-Principles Physics: Measuring True Non-invasive, Continuous Blood Pressure — Aditya Rajagopal, Caltech</li>
-        <li>Advancing Brain-Computer Interfaces to Improve Health with Quantum Technologies — Miko Wieczorek (Mayo Clinic Florida) and Michele Dougherty (Mayo Clinic)</li>
+        <li>Advancing Brain-Computer Interfaces to Improve Health with Quantum Technologies — Mikolaj A. Wieczorek (Mayo Clinic Florida) and Michele Dougherty (Mayo Clinic)</li>
       </ul>
     </div>
   </div>
@@ -246,7 +246,7 @@ view: compact
     <div class="agenda-time">9:00 AM</div>
     <div class="agenda-content">
       <strong>Session 5: Quantum Phenomena</strong><br>
-      <em>Chair: Nicole Halpern</em>
+      <em>Chair: Nicole Yunger Halpern</em>
       <ul>
         <li>Organizing Quantum Biology — Clarice Aiello (Quantum Biology Institute)</li>
         <li>Dynamics of cellular processes through live-cell imaging — Stoyno Stoynov (Institute of Molecular Biology, Coordinator of Sofia Euro-BioImaging Node)</li>
@@ -274,7 +274,7 @@ view: compact
       <ul>
         <li>NV Diamond — Andrea Candini (CNR-ISOF, Italy)</li>
         <li>Bringing multiplexed ultrasensitive diagnostics to near-patient use with quantum sensing — Colin Connolly</li>
-        <li>Topic TBD — Alexander Pearson, MD (University of Chicago Medicine)</li>
+        <li>Topic TBD — Alexander Pearson (University of Chicago Medicine)</li>
         <li>TBA industry</li>
       </ul>
     </div>
@@ -293,7 +293,7 @@ view: compact
       <ul>
         <li>Medical Oncology — Alexander Pearson, University of Chicago Medicine</li>
         <li>Tracking Molecular Interactions (Molecular Biophysics) — Don Lamb, LMU</li>
-        <li>Cell Signaling — Jose Onuchic, Rice</li>
+        <li>Cell Signaling — José Onuchic, Rice</li>
         <li>Clinical Imaging — Michele Dougherty, Mayo Clinic</li>
         <li>Cell Mechanics — Maria Mukhina, UMD</li>
         <li>Immune System and Cancer — Arnold Levine, Princeton</li>
@@ -309,7 +309,7 @@ view: compact
     <div class="agenda-time">2:00 PM</div>
     <div class="agenda-content">
       <strong>Session 7: Spin-Based Quantum Biosensors</strong><br>
-      <em>Chair: Ron Walsworth</em>
+      <em>Chair: Ronald L. Walsworth</em>
       <ul>
         <li>NV Ensemble Magnetic Field Imaging via Laser Raster Scanning — Alexander Huck (Technical University of Denmark)</li>
         <li>Early Detection of Alzheimer’s Disease Risk by Monolayer Quantum Materials — Cheng Gong (University of Maryland)</li>
@@ -362,7 +362,7 @@ view: compact
       <em>Chair: Avik Dutt</em>
       <ul>
         <li>Sensing based on entangled two-photon absorption — George Schatz (Northwestern University)</li>
-        <li>Topic TBD — John Fourkas (University of Maryland, Chemistry &amp; Biochemistry; IPST)</li>
+        <li>Topic TBD — John T. Fourkas (University of Maryland, Chemistry &amp; Biochemistry; IPST)</li>
         <li>Collective quantum phenomena at room temperature — Peter Littlewood (University of Chicago, Physics; James Franck Institute)</li>
         <li>Topic TBD — Qizhong Liang</li>
       </ul>
