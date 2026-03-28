@@ -10,10 +10,59 @@ view: compact
   .qbt-agenda {
     max-width: 960px;
   }
+  .qbt-agenda h2,
+  .qbt-agenda .agenda-item[id] {
+    scroll-margin-top: 90px;
+  }
   .qbt-agenda h2 {
     margin-top: 2rem;
     padding-bottom: 0.35rem;
     border-bottom: 1px solid #ddd;
+  }
+  .qbt-agenda .agenda-nav {
+    margin: 0.75rem 0 1.25rem;
+    padding: 0.7rem 0.8rem;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background: #fafafa;
+  }
+  .qbt-agenda .agenda-nav p {
+    margin: 0 0 0.45rem;
+  }
+  .qbt-agenda .agenda-nav p:last-child {
+    margin-bottom: 0;
+  }
+  .qbt-agenda .agenda-nav strong {
+    display: inline-block;
+    margin-right: 0.35rem;
+  }
+  .qbt-agenda .agenda-nav-day {
+    display: block;
+    margin: 0.2rem 0;
+    font-weight: 600;
+  }
+  .qbt-agenda .agenda-nav-group {
+    display: block;
+    margin: 0.35rem 0;
+  }
+  .qbt-agenda .agenda-nav-group-label {
+    display: block;
+    margin-bottom: 0.2rem;
+    font-weight: 600;
+  }
+  .qbt-agenda .agenda-nav a {
+    display: inline-block;
+    margin: 0.1rem 0.22rem 0.1rem 0;
+    padding: 0.18rem 0.42rem;
+    border-radius: 999px;
+    background: #eef3f8;
+    text-decoration: none;
+    line-height: 1.25;
+  }
+  .qbt-agenda .agenda-nav a:hover,
+  .qbt-agenda .agenda-nav a:focus {
+    background: #dce8f5;
+    text-decoration: underline;
   }
   .qbt-agenda .agenda-item {
     display: grid;
@@ -28,21 +77,48 @@ view: compact
   .qbt-agenda .agenda-content ul {
     margin: 0.4rem 0 0 1.2rem;
   }
+  @media (max-width: 700px) {
+    .qbt-agenda .agenda-item {
+      grid-template-columns: 1fr;
+      gap: 0.3rem;
+    }
+    .qbt-agenda .agenda-time {
+      margin-bottom: 0.1rem;
+    }
+  }
   </style>
 
   <h1>Workshop Agenda</h1>
 
-  <p><strong>Jump to:</strong> <a href="#wednesday-april-8">Wednesday, April 8</a> | <a href="#thursday-april-9">Thursday, April 9</a> | <a href="#friday-april-10">Friday, April 10</a></p>
-  <p><strong>Sessions:</strong><br>
-    Wednesday: <a href="#session-1">Session 1: Nexus of Quantum Technology and Biology</a> | <a href="#session-2">Session 2: Quantum in Biology</a> | <a href="#session-3">Session 3: Quantum Biosensors</a> | <a href="#session-4">Session 4: Health</a><br>
-    Thursday: <a href="#session-5">Session 5: Quantum Phenomena</a> | <a href="#session-6">Session 6: Quantum Biosensors 2</a> | <a href="#session-7">Session 7: Spin-Based Quantum Biosensors</a><br>
-    Friday: <a href="#session-8">Session 8: Photonic Quantum Sensing</a> | <a href="#session-9">Session 9: Quantum Centers &amp; Tech. Transfer</a>
-  </p>
+  <div class="agenda-nav">
+    <p><strong>Days</strong></p>
+    <a class="agenda-nav-day" href="#wednesday-april-8">Wednesday, April 8</a>
+    <a class="agenda-nav-day" href="#thursday-april-9">Thursday, April 9</a>
+    <a class="agenda-nav-day" href="#friday-april-10">Friday, April 10</a>
+    <div class="agenda-nav-group">
+      <span class="agenda-nav-group-label">Wednesday Sessions</span>
+      <a href="#session-1">Session 1: Nexus of Quantum Technology and Biology</a>
+      <a href="#session-2">Session 2: Quantum in Biology</a>
+      <a href="#session-3">Session 3: Quantum Biosensors</a>
+      <a href="#session-4">Session 4: Health</a>
+    </div>
+    <div class="agenda-nav-group">
+      <span class="agenda-nav-group-label">Thursday Sessions</span>
+      <a href="#session-5">Session 5: Quantum Phenomena</a>
+      <a href="#session-6">Session 6: Quantum Biosensors 2</a>
+      <a href="#session-7">Session 7: Spin-Based Quantum Biosensors</a>
+    </div>
+    <div class="agenda-nav-group">
+      <span class="agenda-nav-group-label">Friday Sessions</span>
+      <a href="#session-8">Session 8: Photonic Quantum Sensing</a>
+      <a href="#session-9">Session 9: Quantum Centers &amp; Tech. Transfer</a>
+    </div>
+  </div>
 
   <h2 id="wednesday-april-8">Wednesday, April 8</h2>
 
   <div class="agenda-item">
-    <div class="agenda-time">8:15–9:00 AM</div>
+    <div class="agenda-time">8:15 AM</div>
     <div class="agenda-content">Breakfast</div>
   </div>
 
@@ -162,7 +238,7 @@ view: compact
   <h2 id="thursday-april-9">Thursday, April 9</h2>
 
   <div class="agenda-item">
-    <div class="agenda-time">8:15–9:00 AM</div>
+    <div class="agenda-time">8:15 AM</div>
     <div class="agenda-content">Breakfast</div>
   </div>
 
@@ -273,6 +349,11 @@ view: compact
   </div>
 
   <h2 id="friday-april-10">Friday, April 10</h2>
+
+  <div class="agenda-item">
+    <div class="agenda-time">8:15 AM</div>
+    <div class="agenda-content">Breakfast</div>
+  </div>
 
   <div class="agenda-item" id="session-8">
     <div class="agenda-time">9:00 AM</div>
