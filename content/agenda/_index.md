@@ -196,10 +196,10 @@ view: compact
       <strong>Session 3: Quantum Biosensors</strong><br>
       <em>Chair: Warwick Bowen (University of Queensland, ARC Centre for Quantum Biotechnology)</em>
       <ul>
-        <li><strong>2:00 PM:</strong> Quantum Diamond NMR Microscopy for Biochemical Analysis — John Blanchard (University of Maryland, QTC / IREAP)</li>
-        <li><strong>2:20 PM:</strong> Quantum Biomechanics — Vladislav Yakovlev (Texas A&amp;M University)</li>
-        <li><strong>2:40 PM:</strong> Engineered Proteins for Quantum Sensing and Actuation in Cells — Yun Chen (Johns Hopkins University)</li>
-        <li><strong>3:00 PM:</strong> Topic TBD — Prineha Narang (UCLA, Physical Sciences; ECE)</li>
+        <li><strong>2:00 PM:</strong> Topic TBD — Prineha Narang (UCLA, Physical Sciences; ECE)</li>
+        <li><strong>2:20 PM:</strong> Quantum Diamond NMR Microscopy for Biochemical Analysis — John Blanchard (University of Maryland, QTC / IREAP)</li>
+        <li><strong>2:40 PM:</strong> Quantum Biomechanics — Vladislav Yakovlev (Texas A&amp;M University)</li>
+        <li><strong>3:00 PM:</strong> Engineered Proteins for Quantum Sensing and Actuation in Cells — Yun Chen (Johns Hopkins University)</li>
       </ul>
     </div>
   </div>
