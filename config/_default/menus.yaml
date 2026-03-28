@@ -16,6 +16,9 @@ main:
   - name: Organizers
     url: '#organizers'
     weight: 40
+  - name: Agenda
+    url: agenda
+    weight: 50
   # - name: Talks
   #   url: talk
   #   weight: 60
