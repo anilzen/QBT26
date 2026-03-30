@@ -37,6 +37,7 @@ design:
 
 <!-- <div class="speaker"><span class="name">Adam Cohen</span><span class="affil">Harvard University</span></div> -->
 <div class="speaker"><span class="name">Colin Connolly</span><span class="affil">Quantum Diamond Technologies Inc. (QDTI)</span></div>
+<div class="speaker"><span class="name">Ivan Coluzza</span><span class="affil">Rice University</span></div>
 
 <div class="speaker"><span class="name">Scott Cushing*</span><span class="affil">Caltech</span></div>
 <!-- <div class="speaker"><span class="name">Massimiliano Dispenza*</span><span class="affil">Leonardo (Quantum Technologies Lab)</span></div> -->

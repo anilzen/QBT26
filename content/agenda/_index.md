@@ -256,7 +256,7 @@ view: compact
         <li><strong>9:00 AM:</strong> Organizing Quantum Biology — Clarice Aiello (Quantum Biology Institute)</li>
         <li><strong>9:20 AM:</strong> Dynamics of cellular processes through live-cell imaging — Stoyno Stoynov (Institute of Molecular Biology, Coordinator of Sofia Euro-BioImaging Node)</li>
         <li><strong>9:40 AM:</strong> Questions and Approaches in Molecular Single Molecule Biophysics — Don Lamb (LMU Munich, Chemistry)</li>
-        <li><strong>10:00 AM:</strong> Isotopic effects in neural functioning — Zoya Leonenko (University of Waterloo)</li>
+        <li><strong>10:00 AM:</strong> Nuclear Spin Filtering at Neuronal Synapses: Evidence for Quantum Processing in the Brain — Zoya Leonenko (University of Waterloo)</li>
       </ul>
     </div>
   </div>
@@ -341,7 +341,7 @@ view: compact
       <ul>
         <li>Quantum Biomedical Innovation and Technologies — Geetha Senthil (National Institutes of Health (NCATS))</li>
         <li>Robert Lambeth (Army Research Laboratory)</li>
-        <li>TBA</li>
+        <li>Wilson Francisco (NSF)</li>
         <li>TBA</li>
       </ul>
     </div>
@@ -366,43 +366,44 @@ view: compact
       <em>Chair: Avik Dutt (University of Maryland)</em>
       <ul>
         <li><strong>9:00 AM:</strong> Sensing based on entangled two-photon absorption — George Schatz (Northwestern University)</li>
-        <li><strong>9:20 AM:</strong> Topic TBD — John T. Fourkas (University of Maryland, Chemistry &amp; Biochemistry; IPST)</li>
-        <li><strong>9:40 AM:</strong> Collective quantum phenomena at room temperature — Peter Littlewood (University of Chicago, Physics; James Franck Institute)</li>
-        <li><strong>10:00 AM:</strong> Topic TBD — Qizhong Liang (JILA / University of Colorado Boulder)</li>
+        <li><strong>9:20 AM:</strong> Collective quantum phenomena at room temperature — Peter Littlewood (University of Chicago, Physics; James Franck Institute)</li>
+        <li><strong>9:40 AM:</strong> Topic TBD — Qizhong Liang (JILA / University of Colorado Boulder)</li>
+        <li><strong>10:00 AM:</strong> AFOSR Quantum Biosensing Testbed — John T. Fourkas (University of Maryland, Chemistry &amp; Biochemistry; IPST)</li>
+        <li><strong>10:20 AM:</strong> Bionic Proteins: Where Biological Modeling Meets Material Innovation — Ivan Coluzza (Rice University)</li>
       </ul>
     </div>
-  </div>
-
-  <div class="agenda-item">
-    <div class="agenda-time">10:20 AM</div>
-    <div class="agenda-content">Roundtable Discussions</div>
   </div>
 
   <div class="agenda-item">
     <div class="agenda-time">10:40 AM</div>
+    <div class="agenda-content">Roundtable Discussions</div>
+  </div>
+
+  <div class="agenda-item">
+    <div class="agenda-time">11:00 AM</div>
     <div class="agenda-content">Break</div>
   </div>
 
   <div class="agenda-item" id="session-9">
-    <div class="agenda-time">11:00 AM</div>
+    <div class="agenda-time">11:20 AM</div>
     <div class="agenda-content">
       <strong>Session 9: Quantum Centers &amp; Tech. Transfer</strong><br>
       <em>Chair: Gretchen Campbell (University of Maryland, Quantum Research &amp; Education)</em>
       <ul>
-        <li><strong>11:00 AM:</strong> Topic TBD — David Awschalom (University of Chicago, PME; Argonne National Laboratory)</li>
-        <li><strong>11:20 AM:</strong> Quantum-enhanced and Quantum-limited biological imaging technologies — Warwick Bowen (University of Queensland, ARC Centre for Quantum Biotechnology)</li>
-        <li><strong>11:40 AM:</strong> Quantum Technology Center — Ronald L. Walsworth (University of Maryland, QTC; Physics &amp; ECE)</li>
+        <li><strong>11:20 AM:</strong> Topic TBD — David Awschalom (University of Chicago, PME; Argonne National Laboratory)</li>
+        <li><strong>11:40 AM:</strong> Quantum-enhanced and Quantum-limited biological imaging technologies — Warwick Bowen (University of Queensland, ARC Centre for Quantum Biotechnology)</li>
+        <li><strong>12:00 PM:</strong> Quantum Technology Center — Ronald L. Walsworth (University of Maryland, QTC; Physics &amp; ECE)</li>
       </ul>
     </div>
   </div>
 
   <div class="agenda-item">
-    <div class="agenda-time">12:00 PM</div>
+    <div class="agenda-time">12:20 PM</div>
     <div class="agenda-content">Roundtable Discussions</div>
   </div>
 
   <div class="agenda-item">
-    <div class="agenda-time">12:30 PM</div>
+    <div class="agenda-time">12:40 PM</div>
     <div class="agenda-content">End of conference</div>
   </div>
 
