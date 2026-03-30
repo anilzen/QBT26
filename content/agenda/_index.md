@@ -277,8 +277,8 @@ view: compact
       <strong>Session 6: Quantum Biosensors 2</strong><br>
       <em>Chair: Don Lamb (LMU Munich, Chemistry)</em>
       <ul>
-        <li><strong>11:00 AM:</strong> NV Diamond — Andrea Candini (CNR-ISOF, Italy)</li>
-        <li><strong>11:20 AM:</strong> Bringing multiplexed ultrasensitive diagnostics to near-patient use with quantum sensing — Colin Connolly (Quantum Diamond Technologies Inc. (QDTI))</li>
+        <li><strong>11:00 AM:</strong> AFOSR Quantum Biosensing Testbed — John T. Fourkas (University of Maryland, Chemistry &amp; Biochemistry; IPST)</li>
+        <li><strong>11:20 AM:</strong> Early Detection of Alzheimer’s Disease Risk by Monolayer Quantum Materials — Cheng Gong (University of Maryland)</li>
         <li><strong>11:40 AM:</strong> Topic TBD — Alex Pearson (University of Chicago Medicine)</li>
         <li><strong>12:00 PM:</strong> TBA industry</li>
       </ul>
@@ -316,8 +316,8 @@ view: compact
       <em>Chair: Ronald L. Walsworth (University of Maryland, QTC; Physics &amp; ECE)</em>
       <ul>
         <li><strong>2:00 PM:</strong> NV Ensemble Magnetic Field Imaging via Laser Raster Scanning — Alexander Huck (Technical University of Denmark)</li>
-        <li><strong>2:20 PM:</strong> Early Detection of Alzheimer’s Disease Risk by Monolayer Quantum Materials — Cheng Gong (University of Maryland)</li>
-        <li><strong>2:40 PM:</strong> Topic TBD — Songi Han (Northwestern University, Chemistry)</li>
+        <li><strong>2:20 PM:</strong> Bringing multiplexed ultrasensitive diagnostics to near-patient use with quantum sensing — Colin Connolly (Quantum Diamond Technologies Inc. (QDTI))</li>
+        <li><strong>2:40 PM:</strong> NV Diamond — Andrea Candini (CNR-ISOF, Italy)</li>
         <li><strong>3:00 PM:</strong> Quantum Magnetometers for Biosensing Applications — Birol Ozturk (Morgan State University, Physics)</li>
       </ul>
     </div>
@@ -368,8 +368,8 @@ view: compact
         <li><strong>9:00 AM:</strong> Sensing based on entangled two-photon absorption — George Schatz (Northwestern University)</li>
         <li><strong>9:20 AM:</strong> Collective quantum phenomena at room temperature — Peter Littlewood (University of Chicago, Physics; James Franck Institute)</li>
         <li><strong>9:40 AM:</strong> Topic TBD — Qizhong Liang (JILA / University of Colorado Boulder)</li>
-        <li><strong>10:00 AM:</strong> AFOSR Quantum Biosensing Testbed — John T. Fourkas (University of Maryland, Chemistry &amp; Biochemistry; IPST)</li>
-        <li><strong>10:20 AM:</strong> Bionic Proteins: Where Biological Modeling Meets Material Innovation — Ivan Coluzza (Rice University)</li>
+        <li><strong>10:00 AM:</strong> Bionic Proteins: Where Biological Modeling Meets Material Innovation — Ivan Coluzza (Rice University)</li>
+        <li><strong>10:20 AM:</strong> Flavin Receptors as "Biological Qubits" for Signal Transduction from light to action — Songi Han (Northwestern University, Chemistry)</li>
       </ul>
     </div>
   </div>
