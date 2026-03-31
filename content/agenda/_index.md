@@ -111,7 +111,7 @@ view: compact
     </div>
     <div class="agenda-nav-group">
       <span class="agenda-nav-group-label">Friday Sessions</span>
-      <a href="#session-8">Session 8: Photonic Quantum Sensing</a>
+      <a href="#session-8">Session 8: Quantum Sensing</a>
       <a href="#session-9">Session 9: Quantum Centers &amp; Tech. Transfer</a>
     </div>
   </div>
@@ -143,9 +143,9 @@ view: compact
       <em>Chair: Peter Maurer (University of Chicago, PME)</em>
       <ul>
         <li><strong>9:20 AM:</strong> Workshop Aims — Wolfgang Losert (University of Maryland, Physics; IPST)</li>
-        <li><strong>9:40 AM:</strong> Quantum – from Science to Impact — Gretchen Campbell (University of Maryland, Quantum Research &amp; Education)</li>
+        <li><strong>9:30 AM:</strong> Quantum – from Science to Impact — Gretchen Campbell (University of Maryland, Quantum Research &amp; Education)</li>
         <li><strong>10:00 AM:</strong> Cancer: The Problem of Rapid, Early, Inexpensive Diagnosis — Arnold Levine (Princeton University)</li>
-        <li><strong>10:20 AM:</strong> Quantum Technology for Biology and Health — Lincoln Carr (Colorado School of Mines, Physics / Quantum Engineering)</li>
+        <li><strong>10:30 AM:</strong> Quantum Technology for Biology and Health — Lincoln Carr (Colorado School of Mines, Physics / Quantum Engineering)</li>
       </ul>
     </div>
   </div>
@@ -184,9 +184,10 @@ view: compact
         <li>Aging — Kan Cao, University of Maryland</li>
         <li>Diagnostic Needs to Advance Orthopaedic Clinical Care — Catherine Kuo, University of Maryland</li>
         <li>Oncology — Ken Pienta, Johns Hopkins University</li>
-        <li>Continuous monitoring in biology and medicine — Aditya Rajagopal, Esperto Medical</li>
-        <li>BRAIN Initiative topic 1 — Grace Hwang, National Institutes of Health</li>
-        <li>BRAIN Initiative topic 2 — Joe Monaco, National Institutes of Health</li>
+        <li>Continuous monitoring in biology and medicine — Aditya Rajagopal, Caltech</li>
+        <li>BRAIN Initiative: Quantum opportunities for NeuroAI — Grace Hwang, National Institutes of Health</li>
+        <li>BRAIN Initiative: Technology Focus Areas — Joe Monaco, National Institutes of Health</li>
+        <li>Quantum enhanced imaging - Geetha Senthil (NCATS) and Afrouz Anderson (NIBIB)</li>
       </ul>
     </div>
   </div>
@@ -224,7 +225,7 @@ view: compact
         <li><strong>4:00 PM:</strong> The Physics of Cancer Metabolism — José Onuchic (Rice University)</li>
         <li><strong>4:20 PM:</strong> Ken Pienta (Johns Hopkins University)</li>
         <li><strong>4:40 PM:</strong> Challenges in Diagnosing Musculoskeletal Disorders and Diseases — Catherine Kuo (University of Maryland)</li>
-        <li><strong>5:00 PM:</strong> Solving an Unsolved Biomedical Problem with First-Principles Physics: Measuring True Non-invasive, Continuous Blood Pressure — Aditya Rajagopal, Esperto Medical</li>
+        <li><strong>5:00 PM:</strong> Solving an Unsolved Biomedical Problem with First-Principles Physics: Measuring True Non-invasive, Continuous Blood Pressure — Aditya Rajagopal, Caltech</li>
         <li><strong>5:20 PM:</strong> Advancing Brain-Computer Interfaces to Improve Health with Quantum Technologies — Miko Wieczorek (Mayo Clinic Florida) and Michele Dougherty (Mayo Clinic)</li>
       </ul>
     </div>
@@ -275,12 +276,12 @@ view: compact
     <div class="agenda-time">11:00 AM</div>
     <div class="agenda-content">
       <strong>Session 6: Quantum Biosensors 2</strong><br>
-      <em>Chair: Don Lamb (LMU Munich, Chemistry)</em>
+      <em>Chair: Avik Dutt (University of Maryland)</em>
       <ul>
-        <li><strong>11:00 AM:</strong> AFOSR Quantum Biosensing Testbed — John T. Fourkas (University of Maryland, Chemistry &amp; Biochemistry; IPST)</li>
-        <li><strong>11:20 AM:</strong> Early Detection of Alzheimer’s Disease Risk by Monolayer Quantum Materials — Cheng Gong (University of Maryland)</li>
-        <li><strong>11:40 AM:</strong> Topic TBD — Alex Pearson (University of Chicago Medicine)</li>
-        <li><strong>12:00 PM:</strong> TBA industry</li>
+        <li><strong>11:00 AM:</strong> Sensing based on entangled two-photon absorption — George Schatz (Northwestern University)</li>
+        <li><strong>11:20 AM:</strong> AFOSR Quantum Biosensing Testbed — John T. Fourkas (University of Maryland, Chemistry &amp; Biochemistry; IPST)</li>
+        <li><strong>11:40 AM:</strong> Early Detection of Alzheimer’s Disease Risk by Monolayer Quantum Materials — Cheng Gong (University of Maryland)</li>
+        <li><strong>12:00 PM:</strong> Topic TBD — Alex Pearson (University of Chicago Medicine)</li>
       </ul>
     </div>
   </div>
@@ -303,8 +304,9 @@ view: compact
         <li>Cell Mechanics — Maria Mukhina, University of Maryland (Physics)</li>
         <li>Immune System and Cancer — Arnold Levine, Princeton University</li>
         <li>Oncology — Ken Pienta, Johns Hopkins University</li>
-        <li>BRAIN Initiative topic 1 — Grace Hwang, National Institutes of Health</li>
-        <li>BRAIN Initiative topic 2 — Joe Monaco, National Institutes of Health</li>
+        <li>BRAIN Initiative: Quantum opportunities for NeuroAI — Grace Hwang, National Institutes of Health</li>
+        <li>BRAIN Initiative: Technology Focus Areas — Joe Monaco, National Institutes of Health</li>
+        <li>Quantum enhanced imaging - Geetha Senthil (NCATS) and Afrouz Anderson (NIBIB)</li>
       </ul>
     </div>
   </div>
@@ -362,13 +364,13 @@ view: compact
   <div class="agenda-item" id="session-8">
     <div class="agenda-time">9:00 AM</div>
     <div class="agenda-content">
-      <strong>Session 8: Photonic Quantum Sensing</strong><br>
-      <em>Chair: Avik Dutt (University of Maryland)</em>
+      <strong>Session 8: Quantum Sensing</strong><br>
+      <em>Chair: Don Lamb (LMU Munich, Chemistry)</em>
       <ul>
-        <li><strong>9:00 AM:</strong> Sensing based on entangled two-photon absorption — George Schatz (Northwestern University)</li>
-        <li><strong>9:20 AM:</strong> Collective quantum phenomena at room temperature — Peter Littlewood (University of Chicago, Physics; James Franck Institute)</li>
+        <li><strong>9:00 AM:</strong> Collective quantum phenomena at room temperature — Peter Littlewood (University of Chicago, Physics; James Franck Institute)</li>
+        <li><strong>9:20 AM:</strong> Bionic Proteins: Where Biological Modeling Meets Material Innovation - Ivan Coluzza (Rice University)</li>
         <li><strong>9:40 AM:</strong> Topic TBD — Qizhong Liang (JILA / University of Colorado Boulder)</li>
-        <li><strong>10:00 AM:</strong> Bionic Proteins: Where Biological Modeling Meets Material Innovation — Ivan Coluzza (Rice University)</li>
+        <li><strong>10:00 AM:</strong> Modeling Structural Ensembles Of Genomes - Vinicius Contessoto (Rice University)</li>
         <li><strong>10:20 AM:</strong> Flavin Receptors as "Biological Qubits" for Signal Transduction from light to action — Songi Han (Northwestern University, Chemistry)</li>
       </ul>
     </div>

@@ -76,7 +76,7 @@ design:
 <div class="speaker"><span class="name">Alex Pearson</span><span class="affil">University of Chicago Medicine</span></div>
 <div class="speaker"><span class="name">Ken Pienta</span><span class="affil">Johns Hopkins University</span></div>
 <div class="speaker"><span class="name">Martin Plenio</span><span class="affil">Ulm University</span></div>
-<div class="speaker"><span class="name">Aditya Rajagopal</span><span class="affil">Esperto Medical</span></div>
+<div class="speaker"><span class="name">Aditya Rajagopal</span><span class="affil">Caltech</span></div>
 
 <!-- <div class="speaker"><span class="name">Matt Rosen</span><span class="affil">MGH Martinos Center</span></div> -->
 <div class="speaker"><span class="name">George Schatz</span><span class="affil">Northwestern University</span></div>
