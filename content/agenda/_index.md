@@ -319,7 +319,7 @@ view: compact
       <ul>
         <li><strong>2:00 PM:</strong> NV Ensemble Magnetic Field Imaging via Laser Raster Scanning — Alexander Huck (Technical University of Denmark)</li>
         <li><strong>2:20 PM:</strong> Bringing multiplexed ultrasensitive diagnostics to near-patient use with quantum sensing — Colin Connolly (Quantum Diamond Technologies Inc. (QDTI))</li>
-        <li><strong>2:40 PM:</strong> NV Diamond — Andrea Candini (CNR-ISOF, Italy)</li>
+        <li><strong>2:40 PM:</strong> Nanodiamonds and microwave excitation to dialogue with astrocytes — Andrea Candini (CNR-ISOF, Italy)</li>
         <li><strong>3:00 PM:</strong> Quantum Magnetometers for Biosensing Applications — Birol Ozturk (Morgan State University, Physics)</li>
       </ul>
     </div>
