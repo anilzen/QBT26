@@ -188,6 +188,7 @@ view: compact
         <li>BRAIN Initiative: Quantum opportunities for NeuroAI — Grace Hwang, National Institutes of Health</li>
         <li>BRAIN Initiative: Technology Focus Areas — Joe Monaco, National Institutes of Health</li>
         <li>Quantum enhanced imaging - Geetha Senthil (NCATS) and Afrouz Anderson (NIBIB)</li>
+        <li>Sensing chronic pain — Timothy Meeker, Morgan State University</li>
       </ul>
     </div>
   </div>
@@ -307,6 +308,7 @@ view: compact
         <li>BRAIN Initiative: Quantum opportunities for NeuroAI — Grace Hwang, National Institutes of Health</li>
         <li>BRAIN Initiative: Technology Focus Areas — Joe Monaco, National Institutes of Health</li>
         <li>Quantum enhanced imaging - Geetha Senthil (NCATS) and Afrouz Anderson (NIBIB)</li>
+        <li>Sensing chronic pain — Timothy Meeker, Morgan State University</li>
       </ul>
     </div>
   </div>
