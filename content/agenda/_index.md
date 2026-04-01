@@ -201,7 +201,7 @@ view: compact
         <li><strong>2:00 PM:</strong> Topic TBD — Prineha Narang (UCLA, Physical Sciences; ECE)</li>
         <li><strong>2:20 PM:</strong> Quantum Diamond NMR Microscopy for Biochemical Analysis — John Blanchard (University of Maryland, QTC / IREAP)</li>
         <li><strong>2:40 PM:</strong> Quantum Biomechanics — Vladislav Yakovlev (Texas A&amp;M University)</li>
-        <li><strong>3:00 PM:</strong> Engineered Proteins for Quantum Sensing and Actuation in Cells — Yun Chen (Johns Hopkins University)</li>
+        <li><strong>3:00 PM:</strong> Collective quantum phenomena at room temperature — Peter Littlewood (University of Chicago, Physics; James Franck Institute)</li>
       </ul>
     </div>
   </div>
@@ -367,7 +367,7 @@ view: compact
       <strong>Session 8: Quantum Sensing</strong><br>
       <em>Chair: Don Lamb (LMU Munich, Chemistry)</em>
       <ul>
-        <li><strong>9:00 AM:</strong> Collective quantum phenomena at room temperature — Peter Littlewood (University of Chicago, Physics; James Franck Institute)</li>
+        <li><strong>9:00 AM:</strong> Engineered Proteins for Quantum Sensing and Actuation in Cells — Yun Chen (Johns Hopkins University)</li>
         <li><strong>9:20 AM:</strong> Bionic Proteins: Where Biological Modeling Meets Material Innovation - Ivan Coluzza (Rice University)</li>
         <li><strong>9:40 AM:</strong> Topic TBD — Qizhong Liang (JILA / University of Colorado Boulder)</li>
         <li><strong>10:00 AM:</strong> Modeling Structural Ensembles Of Genomes - Vinicius Contessoto (Rice University)</li>
