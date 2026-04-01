@@ -179,7 +179,7 @@ view: compact
         <li>Tracking Molecular Interactions (Molecular Biophysics) — Don Lamb, LMU Munich (Chemistry)</li>
         <li>Cell Signaling — José Onuchic, Rice University</li>
         <li>Clinical Imaging — Michele Dougherty, Mayo Clinic</li>
-        <li>Cell Mechanics — Maria Mukhina, University of Maryland (Physics)</li>
+        <li>Mechanical information processing in cells (Intracellular Mechanics) — Maria Mukhina, University of Maryland (Physics)</li>
         <li>Immune System and Cancer — Arnold Levine, Princeton University</li>
         <li>Aging — Kan Cao, University of Maryland</li>
         <li>Diagnostic Needs to Advance Orthopaedic Clinical Care — Catherine Kuo, University of Maryland</li>
@@ -301,7 +301,7 @@ view: compact
         <li>Tracking Molecular Interactions (Molecular Biophysics) — Don Lamb, LMU Munich (Chemistry)</li>
         <li>Cell Signaling — José Onuchic, Rice University</li>
         <li>Clinical Imaging — Michele Dougherty, Mayo Clinic</li>
-        <li>Cell Mechanics — Maria Mukhina, University of Maryland (Physics)</li>
+        <li>Mechanical information processing in cells (Intracellular Mechanics) — Maria Mukhina, University of Maryland (Physics)</li>
         <li>Immune System and Cancer — Arnold Levine, Princeton University</li>
         <li>Oncology — Ken Pienta, Johns Hopkins University</li>
         <li>BRAIN Initiative: Quantum opportunities for NeuroAI — Grace Hwang, National Institutes of Health</li>
