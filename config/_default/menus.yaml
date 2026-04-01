@@ -7,7 +7,7 @@ main:
   - name: Home
     url: '#welcome'
     weight: 10
-  - name: Invited Speakers
+  - name: Speakers
     url: '#invited_speakers'
     weight: 20
   - name: Advisory Board

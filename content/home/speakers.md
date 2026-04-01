@@ -8,7 +8,7 @@ subtitle:
 
 content:
   user_groups:
-    - Invited Speaker
+    - Speaker
 
 design:
   show_interests: false
