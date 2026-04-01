@@ -37,6 +37,7 @@ design:
 
 <!-- <div class="speaker"><span class="name">Adam Cohen</span><span class="affil">Harvard University</span></div> -->
 <div class="speaker"><span class="name">Colin Connolly</span><span class="affil">Quantum Diamond Technologies Inc. (QDTI)</span></div>
+<div class="speaker"><span class="name">Vinícius Contessoto</span><span class="affil">Rice University</span></div>
 <div class="speaker"><span class="name">Ivan Coluzza</span><span class="affil">Rice University</span></div>
 
 <div class="speaker"><span class="name">Scott Cushing*</span><span class="affil">Caltech</span></div>
@@ -90,7 +91,7 @@ design:
 
 <!-- <div class="speaker"><span class="name">Allison Squires</span><span class="affil">University of Chicago (PME)</span></div> -->
 <!-- <div class="speaker"><span class="name">Harrison Steel</span><span class="affil">University of Oxford</span></div> -->
-<div class="speaker"><span class="name">Stoyno Stoynov*</span><span class="affil">Institute of Molecular Biology, Coordinator of Sofia Euro-bioimaging Node</span></div>
+<div class="speaker"><span class="name">Stoyno Stoynov</span><span class="affil">Institute of Molecular Biology, Coordinator of Sofia Euro-bioimaging Node</span></div>
 
 <div class="speaker"><span class="name">Ronald L. Walsworth</span><span class="affil">University of Maryland (QTC; Physics &amp; ECE)</span></div>
 <div class="speaker"><span class="name">Mikolaj A. Wieczorek</span><span class="affil">Mayo Clinic Florida</span></div>

@@ -88,7 +88,7 @@ view: compact
   }
   </style>
 
-  <h1>Workshop Agenda</h1>
+  <h1>Conference Agenda</h1>
   <p><strong>Location:</strong> <a href="https://www.thehotelumd.com/">The Hotel at the University of Maryland, College Park, Maryland</a></p>
 
   <div class="agenda-nav">
