@@ -119,8 +119,8 @@ view: compact
   <h2 id="wednesday-april-8">Wednesday, April 8</h2>
 
   <div class="agenda-item">
-    <div class="agenda-time">8:15 AM</div>
-    <div class="agenda-content">Breakfast</div>
+    <div class="agenda-time">8:00 AM</div>
+    <div class="agenda-content">Breakfast &amp; Registration</div>
   </div>
 
   <div class="agenda-item">
