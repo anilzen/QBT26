@@ -224,21 +224,20 @@ view: compact
       <em>Chair: Krastan Blagoev (National Science Foundation, Physics of Living Systems)</em>
       <ul>
         <li><strong>4:00 PM:</strong> The Physics of Cancer Metabolism — José Onuchic (Rice University)</li>
-        <li><strong>4:20 PM:</strong> Ken Pienta (Johns Hopkins University)</li>
-        <li><strong>4:40 PM:</strong> Challenges in Diagnosing Musculoskeletal Disorders and Diseases — Catherine Kuo (University of Maryland)</li>
-        <li><strong>5:00 PM:</strong> Solving an Unsolved Biomedical Problem with First-Principles Physics: Measuring True Non-invasive, Continuous Blood Pressure — Aditya Rajagopal, Caltech</li>
-        <li><strong>5:20 PM:</strong> Advancing Brain-Computer Interfaces to Improve Health with Quantum Technologies — Miko Wieczorek (Mayo Clinic Florida) and Michele Dougherty (Mayo Clinic)</li>
+        <li><strong>4:20 PM:</strong> Challenges in Diagnosing Musculoskeletal Disorders and Diseases — Catherine Kuo (University of Maryland)</li>
+        <li><strong>4:40 PM:</strong> Solving an Unsolved Biomedical Problem with First-Principles Physics: Measuring True Non-invasive, Continuous Blood Pressure — Aditya Rajagopal, Caltech</li>
+        <li><strong>5:00 PM:</strong> Advancing Brain-Computer Interfaces to Improve Health with Quantum Technologies — Miko Wieczorek (Mayo Clinic Florida) and Michele Dougherty (Mayo Clinic)</li>
       </ul>
     </div>
   </div>
 
   <div class="agenda-item">
-    <div class="agenda-time">5:40 PM</div>
+    <div class="agenda-time">5:20 PM</div>
     <div class="agenda-content">Roundtable Discussions</div>
   </div>
 
   <div class="agenda-item">
-    <div class="agenda-time">6:00 PM</div>
+    <div class="agenda-time">5:40 PM</div>
     <div class="agenda-content">Poster session and buffet</div>
   </div>
 
