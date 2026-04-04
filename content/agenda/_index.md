@@ -203,7 +203,6 @@ view: compact
         <li><strong>2:20 PM:</strong> Quantum Diamond NMR Microscopy for Biochemical Analysis — John Blanchard (University of Maryland, QTC / IREAP)</li>
         <li><strong>2:40 PM:</strong> Quantum Biomechanics — Vladislav Yakovlev (Texas A&amp;M University)</li>
         <li><strong>3:00 PM:</strong> Topic TBD — Qizhong Liang (JILA / University of Colorado Boulder)</li>
-        <!-- <li><strong>3:00 PM:</strong> Collective quantum phenomena at room temperature — Peter Littlewood (University of Chicago, Physics; James Franck Institute)</li> -->
       </ul>
     </div>
   </div>
