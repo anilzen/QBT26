@@ -197,7 +197,7 @@ view: compact
     <div class="agenda-time">2:00 PM</div>
     <div class="agenda-content">
       <strong>Session 3: Quantum Biosensors</strong><br>
-      <em>Chair: Warwick Bowen (University of Queensland, ARC Centre for Quantum Biotechnology)</em>
+      <em>Chair: Warwick Bowen (Director, ARC Centre for Quantum Biotechnology, University of Queensland, Australia)</em>
       <ul>
         <li><strong>2:00 PM:</strong> Topic TBD — Prineha Narang (UCLA, Physical Sciences; ECE)</li>
         <li><strong>2:20 PM:</strong> Quantum Diamond NMR Microscopy for Biochemical Analysis — John Blanchard (University of Maryland, QTC / IREAP)</li>
@@ -316,7 +316,7 @@ view: compact
     <div class="agenda-time">2:00 PM</div>
     <div class="agenda-content">
       <strong>Session 7: Spin-Based Quantum Biosensors</strong><br>
-      <em>Chair: Ronald L. Walsworth (University of Maryland, QTC; Physics &amp; ECE)</em>
+      <em>Chair: Ronald L. Walsworth (Director, Quantum Technology Center, University of Maryland)</em>
       <ul>
         <li><strong>2:00 PM:</strong> NV Ensemble Magnetic Field Imaging via Laser Raster Scanning — Alexander Huck (Technical University of Denmark)</li>
         <li><strong>2:20 PM:</strong> Bringing multiplexed ultrasensitive diagnostics to near-patient use with quantum sensing — Colin Connolly (Quantum Diamond Technologies Inc. (QDTI))</li>
@@ -393,8 +393,8 @@ view: compact
       <em>Chair: Gretchen Campbell (University of Maryland, Quantum Research &amp; Education)</em>
       <ul>
         <li><strong>11:00 AM:</strong> Topic TBD — David Awschalom (University of Chicago, PME; Argonne National Laboratory)</li>
-        <li><strong>11:20 AM:</strong> Quantum-enhanced and Quantum-limited biological imaging technologies — Warwick Bowen (University of Queensland, ARC Centre for Quantum Biotechnology)</li>
-        <li><strong>11:40 AM:</strong> Quantum Technology Center — Ronald L. Walsworth (University of Maryland, QTC; Physics &amp; ECE)</li>
+        <li><strong>11:20 AM:</strong> Quantum Biotechnology in Australia — Warwick Bowen (Director, ARC Centre for Quantum Biotechnology, University of Queensland, Australia)</li>
+        <li><strong>11:40 AM:</strong> Quantum Technology Center — Ronald L. Walsworth (Director, Quantum Technology Center, University of Maryland)</li>
       </ul>
     </div>
   </div>
