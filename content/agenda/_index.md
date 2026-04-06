@@ -202,7 +202,8 @@ view: compact
         <li><strong>2:00 PM:</strong> Topic TBD — Prineha Narang (UCLA, Physical Sciences; ECE)</li>
         <li><strong>2:20 PM:</strong> Quantum Diamond NMR Microscopy for Biochemical Analysis — John Blanchard (University of Maryland, QTC / IREAP)</li>
         <li><strong>2:40 PM:</strong> Quantum Biomechanics — Vladislav Yakovlev (Texas A&amp;M University)</li>
-        <li><strong>3:00 PM:</strong> Topic TBD — Qizhong Liang (JILA / University of Colorado Boulder)</li>
+        <li><strong>3:00 PM:</strong> Early Detection of Neural Network Stress by Monolayer Quantum Materials — Cheng Gong (University of Maryland)
+</li>
       </ul>
     </div>
   </div>
@@ -279,9 +280,9 @@ view: compact
       <em>Chair: Avik Dutt (University of Maryland)</em>
       <ul>
         <li><strong>11:00 AM:</strong> Sensing based on entangled two-photon absorption — George Schatz (Northwestern University)</li>
-        <li><strong>11:20 AM:</strong> AFOSR Quantum Biosensing Testbed — John T. Fourkas (University of Maryland, Chemistry &amp; Biochemistry; IPST)</li>
-        <li><strong>11:40 AM:</strong> Early Detection of Alzheimer’s Disease Risk by Monolayer Quantum Materials — Cheng Gong (University of Maryland)</li>
-        <li><strong>12:00 PM:</strong> Topic TBD — Alex Pearson (University of Chicago Medicine)</li>
+        <li><strong>11:20 AM:</strong> UMD Quantum Biosensing Testbed — John T. Fourkas (University of Maryland, Chemistry &amp; Biochemistry; IPST)</li>
+        <li><strong>11:40 AM:</strong> Topic TBD — Qizhong Liang (JILA / University of Colorado Boulder)</li>
+        <li><strong>12:00 PM:</strong> Sensing for Medical Oncology — Alex Pearson (University of Chicago Medicine)</li>
       </ul>
     </div>
   </div>
@@ -394,7 +395,7 @@ view: compact
       <ul>
         <li><strong>11:00 AM:</strong> Topic TBD — David Awschalom (University of Chicago, PME; Argonne National Laboratory)</li>
         <li><strong>11:20 AM:</strong> Quantum Biotechnology in Australia — Warwick Bowen (Director, ARC Centre for Quantum Biotechnology, University of Queensland, Australia)</li>
-        <li><strong>11:40 AM:</strong> Quantum Technology Center — Ronald L. Walsworth (Director, Quantum Technology Center, University of Maryland)</li>
+        <li><strong>11:40 AM:</strong> Quantum Biotechnology — Moving Things Forward — Ronald L. Walsworth (Director, Quantum Technology Center, University of Maryland)</li>
       </ul>
     </div>
   </div>
