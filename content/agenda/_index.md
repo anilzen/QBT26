@@ -131,7 +131,7 @@ view: compact
         <li>Darryl Pines (President, University of Maryland)</li>
         <li>Pat O’Shea (Vice President for Research, University of Maryland)</li>
         <li>Amitabh Varshney (Dean, CMNS, University of Maryland)</li>
-        <li>Welcome from NSF</li>
+        <li>Welcome from NSF, David B. Berkowitz, Mathematical and Physical Sciences (MPS), NSF</li>
       </ul>
     </div>
   </div>
