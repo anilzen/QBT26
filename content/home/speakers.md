@@ -54,7 +54,6 @@ design:
 <div class="speaker"><span class="name">Aditya Rajagopal</span><span class="affil">Caltech</span></div>
 <div class="speaker"><span class="name">George Schatz</span><span class="affil">Northwestern University</span></div>
 <div class="speaker"><span class="name">Geetha Senthil</span><span class="affil">National Institutes of Health (NCATS)</span></div>
-<div class="speaker"><span class="name">Stoyno Stoynov</span><span class="affil">Institute of Molecular Biology</span></div>
 <div class="speaker"><span class="name">Rob Tycko</span><span class="affil">National Institutes of Health</span></div>
 <div class="speaker"><span class="name">Ronald L. Walsworth</span><span class="affil">University of Maryland (QTC; Physics &amp; ECE)</span></div>
 <div class="speaker"><span class="name">Mikolaj A. Wieczorek</span><span class="affil">Mayo Clinic Florida</span></div>
