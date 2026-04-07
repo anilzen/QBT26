@@ -55,9 +55,9 @@ design:
 <div class="speaker"><span class="name">George Schatz</span><span class="affil">Northwestern University</span></div>
 <div class="speaker"><span class="name">Geetha Senthil</span><span class="affil">National Institutes of Health (NCATS)</span></div>
 <div class="speaker"><span class="name">Stoyno Stoynov</span><span class="affil">Institute of Molecular Biology</span></div>
+<div class="speaker"><span class="name">Rob Tycko</span><span class="affil">National Institutes of Health</span></div>
 <div class="speaker"><span class="name">Ronald L. Walsworth</span><span class="affil">University of Maryland (QTC; Physics &amp; ECE)</span></div>
 <div class="speaker"><span class="name">Mikolaj A. Wieczorek</span><span class="affil">Mayo Clinic Florida</span></div>
 <div class="speaker"><span class="name">Katherine Xiang</span><span class="affil">Harvard University</span></div>
-<div class="speaker"><span class="name">Vladislav Yakovlev</span><span class="affil">Texas A&amp;M University</span></div>
 <div class="speaker"><span class="name">Nicole Yunger Halpern</span><span class="affil">NIST (QuICS / JQI)</span></div>
 </div>

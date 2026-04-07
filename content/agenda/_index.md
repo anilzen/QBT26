@@ -201,7 +201,7 @@ view: compact
       <ul>
         <li><strong>2:00 PM:</strong> Topic TBD — Prineha Narang (UCLA, Physical Sciences; ECE)</li>
         <li><strong>2:20 PM:</strong> Quantum Diamond NMR Microscopy for Biochemical Analysis — John Blanchard (University of Maryland, QTC / IREAP)</li>
-        <li><strong>2:40 PM:</strong> Quantum Biomechanics — Vladislav Yakovlev (Texas A&amp;M University)</li>
+        <li><strong>2:40 PM:</strong> Excitation of high-order multiple quantum coherences in NMR of rotating solids - Rob Tycko (NIH)</li>
         <li><strong>3:00 PM:</strong> Early Detection of Neural Network Stress by Monolayer Quantum Materials — Cheng Gong (University of Maryland)
 </li>
       </ul>
