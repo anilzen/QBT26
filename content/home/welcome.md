@@ -10,7 +10,7 @@ design:
 ---
 
 {{% callout note %}}
-Online registration is now closed. Please register onsite at the conference.
+Online registration is closed. Please register onsite.
 {{% /callout %}}
 <!-- To register, please click [here](https://forms.gle/mrQ4pppH3WHoaFkp7). -->
 
