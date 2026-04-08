@@ -10,8 +10,9 @@ design:
 ---
 
 {{% callout note %}}
-To register, please click [here](https://forms.gle/mrQ4pppH3WHoaFkp7).
+Online registration is now closed. Please register onsite at the conference.
 {{% /callout %}}
+<!-- To register, please click [here](https://forms.gle/mrQ4pppH3WHoaFkp7). -->
 
 **Location:** [The Hotel at the University of Maryland, College Park, Maryland](https://www.thehotelumd.com/)
 

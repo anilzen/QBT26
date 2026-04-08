@@ -89,7 +89,7 @@ view: compact
   </style>
 
   <h1>Conference Agenda</h1>
-  <p><strong>Location:</strong> <a href="https://www.thehotelumd.com/">The Hotel at the University of Maryland, College Park, Maryland</a></p>
+  <p><strong>Location:</strong> Calvert Ballroom at <a href="https://www.thehotelumd.com/">The Hotel at the University of Maryland, College Park, Maryland</a></p>
 
   <div class="agenda-nav">
     <p><strong>Days</strong></p>
