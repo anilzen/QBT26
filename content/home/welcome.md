@@ -14,7 +14,7 @@ Online registration is now closed. Please register onsite at the conference.
 {{% /callout %}}
 <!-- To register, please click [here](https://forms.gle/mrQ4pppH3WHoaFkp7). -->
 
-**Location:** [The Hotel at the University of Maryland, College Park, Maryland](https://www.thehotelumd.com/)
+**Location:** Calvert Ballroom at [The Hotel at the University of Maryland, College Park, Maryland](https://www.thehotelumd.com/)
 
 The Quantum BioTechnology Conference (QBT26) aims to highlight the current state of the art in quantum sensing, quantum reporters, quantum control, and quantum analysis of complex, large scale biological data and to identify opportunities in technology development. 
 
