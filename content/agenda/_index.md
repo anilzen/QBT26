@@ -186,7 +186,7 @@ view: compact
         <li>Oncology — Ken Pienta, Johns Hopkins University</li>
         <li>Continuous monitoring in biology and medicine — Aditya Rajagopal, Caltech</li>
         <li>BRAIN Initiative: Quantum opportunities for NeuroAI — Grace Hwang, National Institutes of Health</li>
-        <li>BRAIN Initiative: Technology Focus Areas — Joe Monaco, National Institutes of Health</li>
+        <!-- <li>BRAIN Initiative: Technology Focus Areas — Joe Monaco, National Institutes of Health</li> -->
         <li>Quantum enhanced imaging - Geetha Senthil (NCATS) and Afrouz Anderson (NIBIB)</li>
         <li>Sensing chronic pain — Timothy Meeker, Morgan State University</li>
       </ul>
