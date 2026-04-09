@@ -281,7 +281,7 @@ view: compact
       <ul>
         <li><strong>11:00 AM:</strong> Sensing based on entangled two-photon absorption — George Schatz (Northwestern University)</li>
         <li><strong>11:20 AM:</strong> UMD Quantum Biosensing Testbed — John T. Fourkas (University of Maryland, Chemistry &amp; Biochemistry; IPST)</li>
-        <li><strong>11:40 AM:</strong> Topic TBD — Qizhong Liang (JILA / University of Colorado Boulder)</li>
+        <li><strong>11:40 AM:</strong> A laser breathalyzer for medical diagnostics — Qizhong Liang (JILA / University of Colorado Boulder)</li>
         <li><strong>12:00 PM:</strong> Sensing for Medical Oncology — Alex Pearson (University of Chicago Medicine)</li>
       </ul>
     </div>
@@ -393,9 +393,8 @@ view: compact
       <strong>Session 9: Quantum Centers &amp; Tech. Transfer</strong><br>
       <em>Chair: Gretchen Campbell (University of Maryland, Quantum Research &amp; Education)</em>
       <ul>
-        <li><strong>11:00 AM:</strong> Topic TBD — David Awschalom (University of Chicago, PME; Argonne National Laboratory)</li>
-        <li><strong>11:20 AM:</strong> Quantum Biotechnology in Australia — Warwick Bowen (Director, ARC Centre for Quantum Biotechnology, University of Queensland, Australia)</li>
-        <li><strong>11:40 AM:</strong> Quantum Biotechnology — Moving Things Forward — Ronald L. Walsworth (Director, Quantum Technology Center, University of Maryland)</li>
+        <li><strong>11:00 AM:</strong> Quantum Biotechnology in Australia — Warwick Bowen (Director, ARC Centre for Quantum Biotechnology, University of Queensland, Australia)</li>
+        <li><strong>11:30 AM:</strong> Quantum Biotechnology — Moving Things Forward — Ronald L. Walsworth (Director, Quantum Technology Center, University of Maryland)</li>
       </ul>
     </div>
   </div>
