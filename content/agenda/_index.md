@@ -343,9 +343,9 @@ view: compact
       <strong>Funders Panel</strong><br>
       <em>Moderator: Krastan Blagoev (National Science Foundation, Physics of Living Systems)</em>
       <ul>
-        <li>Quantum Biomedical Innovation and Technologies — Geetha Senthil (National Institutes of Health (NCATS))</li>
-        <li>Robert Lambeth (Army Research Laboratory)</li>
-        <li>Wilson Francisco (NSF)</li>
+        <li>Geetha Senthil, National Institutes of Health (NCATS)</li>
+        <li>Robert Lambeth, Army Research Laboratory</li>
+        <li>Wilson Francisco, National Science Foundation</li>
         <li>Grace Hwang, National Institutes of Health</li>
       </ul>
     </div>
