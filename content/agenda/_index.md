@@ -346,7 +346,7 @@ view: compact
         <li>Quantum Biomedical Innovation and Technologies — Geetha Senthil (National Institutes of Health (NCATS))</li>
         <li>Robert Lambeth (Army Research Laboratory)</li>
         <li>Wilson Francisco (NSF)</li>
-        <li>TBA</li>
+        <li>Grace Hwang, National Institutes of Health</li>
       </ul>
     </div>
   </div>
