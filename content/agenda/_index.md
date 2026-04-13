@@ -162,7 +162,7 @@ view: compact
       <em>Chair: Wolfgang Losert (University of Maryland, Physics; IPST)</em>
       <ul>
         <li><strong>11:20 AM:</strong> Quantum metrology enhanced by effective time reversal — Nicole Yunger Halpern (NIST / QuICS / JQI)</li>
-        <li><strong>11:40 AM:</strong> Quantum Control, Hyperpolarisation &amp; Signal Processing for Quantum Sensing in the Life Sciences — Martin Plenio (Ulm University)</li>
+        <li><strong>11:40 AM:</strong> Quantum Control, Hyperpolarisation &amp; Signal Processing for Quantum Sensing in the Life Sciences — Martin Plenio (Ulm University) <a href="/uploads/talks/Plenio.pdf">[PDF]</a></li>
         <li><strong>12:00 PM:</strong> Qubits at room temperature — Peter Maurer (University of Chicago, PME)</li>
         <li><strong>12:20 PM:</strong> Mechanism of magnetic field effect in mScarlet3 — Katherine Xiang (Harvard University)</li>
         <li><strong>12:40 PM:</strong> Roundtable Discussions</li>
@@ -369,7 +369,7 @@ view: compact
       <strong>Session 8: Quantum Sensing</strong><br>
       <em>Chair: Don Lamb (LMU Munich, Chemistry)</em>
       <ul>
-        <li><strong>9:00 AM:</strong> Engineered Proteins for Quantum Sensing and Actuation in Cells — Yun Chen (Johns Hopkins University)</li>
+        <li><strong>9:00 AM:</strong> Engineered Proteins for Quantum Sensing and Actuation in Cells — Yun Chen (Johns Hopkins University)</li> <!-- DON'T POST ONLINE -->
         <li><strong>9:20 AM:</strong> Bionic Proteins: Where Biological Modeling Meets Material Innovation - Ivan Coluzza (Rice Univ.)</li>
         <li><strong>9:40 AM:</strong> Modeling Structural Ensembles Of Genomes - Vinicius Contessoto (Rice)</li>
         <li><strong>10:00 AM:</strong> Flavin Receptors as "Biological Qubits" for Signal Transduction from light to action — Songi Han (Northwestern University, Chemistry)</li>
@@ -414,3 +414,7 @@ view: compact
     <div class="agenda-content">Advisory Board Working Session</div>
   </div>
 </section>
+
+
+<!-- DON'T POST ONLINE
+Yun Chen -->
