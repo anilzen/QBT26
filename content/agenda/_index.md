@@ -128,10 +128,10 @@ view: compact
     <div class="agenda-content">
       <strong>Welcoming Remarks</strong>
       <ul>
-        <li>Darryl Pines (President, University of Maryland)</li>
-        <li>Pat O’Shea (Vice President for Research, University of Maryland)</li>
-        <li>Amitabh Varshney (Dean, CMNS, University of Maryland)</li>
-        <li>Welcome from NSF, David B. Berkowitz, Mathematical and Physical Sciences (MPS), NSF</li>
+        <li>Darryl Pines (President, University of Maryland) <a href="https://www.youtube.com/watch?v=Wv6fykfhwas">[Recording]</a></li>
+        <li>Pat O’Shea (Vice President for Research, University of Maryland) <a href="https://www.youtube.com/watch?v=ST55zGF5Mv4">[Recording]</a></li>
+        <li>Amitabh Varshney (Dean, CMNS, University of Maryland) <a href="https://www.youtube.com/watch?v=BbpkgYTjo_U">[Recording]</a></li>
+        <li>Welcome from NSF, David B. Berkowitz, Mathematical and Physical Sciences (MPS), NSF <a href="https://www.youtube.com/watch?v=4I5vYD1ctR8">[Recording]</a></li>
       </ul>
     </div>
   </div>
@@ -139,7 +139,7 @@ view: compact
   <div class="agenda-item" id="session-1">
     <div class="agenda-time">9:20 AM</div>
     <div class="agenda-content">
-      <strong>Session 1: Nexus of Quantum Technology and Biology</strong><br>
+      <strong>Session 1: Nexus of Quantum Technology and Biology</strong> <a href="https://www.youtube.com/watch?v=v-ao4DWyHwE">[Recording]</a><br>
       <em>Chair: Peter Maurer (University of Chicago, PME)</em>
       <ul>
         <li><strong>9:20 AM:</strong> Workshop Aims — Wolfgang Losert (University of Maryland, Physics; IPST)</li>
@@ -158,7 +158,7 @@ view: compact
   <div class="agenda-item" id="session-2">
     <div class="agenda-time">11:20 AM</div>
     <div class="agenda-content">
-      <strong>Session 2: Quantum in Biology</strong><br>
+      <strong>Session 2: Quantum in Biology</strong> <a href="https://www.youtube.com/watch?v=-_yx2vgAShA">[Recording]</a><br>
       <em>Chair: Wolfgang Losert (University of Maryland, Physics; IPST)</em>
       <ul>
         <li><strong>11:20 AM:</strong> Quantum metrology enhanced by effective time reversal — Nicole Yunger Halpern (NIST / QuICS / JQI)</li>
@@ -196,7 +196,7 @@ view: compact
   <div class="agenda-item" id="session-3">
     <div class="agenda-time">2:00 PM</div>
     <div class="agenda-content">
-      <strong>Session 3: Quantum Biosensors</strong><br>
+      <strong>Session 3: Quantum Biosensors</strong> <a href="https://www.youtube.com/watch?v=GNwAsOgKR2Y">[Recording]</a><br>
       <em>Chair: Warwick Bowen (Director, ARC Centre for Quantum Biotechnology, University of Queensland, Australia)</em>
       <ul>
         <li><strong>2:10 PM:</strong> Quantum sensor data fusion in the life sciences — Prineha Narang (UCLA, Physical Sciences; ECE)</li>
@@ -221,7 +221,7 @@ view: compact
   <div class="agenda-item" id="session-4">
     <div class="agenda-time">4:00 PM</div>
     <div class="agenda-content">
-      <strong>Session 4: Health</strong><br>
+      <strong>Session 4: Health</strong> <a href="https://www.youtube.com/watch?v=iooBJJQBAT4">[Recording]</a><br>
       <em>Chair: Krastan Blagoev (National Science Foundation, Physics of Living Systems)</em>
       <ul>
         <li><strong>4:00 PM:</strong> The Physics of Cancer Metabolism — José Onuchic (Rice University)</li>
@@ -252,7 +252,7 @@ view: compact
   <div class="agenda-item" id="session-5">
     <div class="agenda-time">9:00 AM</div>
     <div class="agenda-content">
-      <strong>Session 5: Quantum Phenomena</strong><br>
+      <strong>Session 5: Quantum Phenomena</strong> <a href="https://www.youtube.com/watch?v=rL3bxwWd26Y">[Recording]</a><br>
       <em>Chair: Nicole Yunger Halpern (NIST / QuICS / JQI)</em>
       <ul>
         <li><strong>9:00 AM:</strong> Organizing Quantum Biology — Clarice Aiello (Quantum Biology Institute)</li>
@@ -276,7 +276,7 @@ view: compact
   <div class="agenda-item" id="session-6">
     <div class="agenda-time">11:00 AM</div>
     <div class="agenda-content">
-      <strong>Session 6: Quantum Biosensors 2</strong><br>
+      <strong>Session 6: Quantum Biosensors 2</strong> <a href="https://www.youtube.com/watch?v=hvrUhOvKI9Q">[Recording]</a><br>
       <em>Chair: Avik Dutt (University of Maryland)</em>
       <ul>
         <li><strong>11:00 AM:</strong> Sensing based on entangled two-photon absorption — George Schatz (Northwestern University)</li>
@@ -316,7 +316,7 @@ view: compact
   <div class="agenda-item" id="session-7">
     <div class="agenda-time">2:00 PM</div>
     <div class="agenda-content">
-      <strong>Session 7: Spin-Based Quantum Biosensors</strong><br>
+      <strong>Session 7: Spin-Based Quantum Biosensors</strong> <a href="https://www.youtube.com/watch?v=nOetv0xeoa8">[Recording]</a><br>
       <em>Chair: Ronald L. Walsworth (Director, Quantum Technology Center, University of Maryland)</em>
       <ul>
         <li><strong>2:00 PM:</strong> NV Ensemble Magnetic Field Imaging via Laser Raster Scanning — Alexander Huck (Technical University of Denmark)</li>
@@ -340,7 +340,7 @@ view: compact
   <div class="agenda-item">
     <div class="agenda-time">4:00 PM</div>
     <div class="agenda-content">
-      <strong>Funders Panel</strong><br>
+      <strong>Funders Panel</strong> <a href="https://www.youtube.com/watch?v=xrToCwLg8Qk">[Recording, part 1]</a> <a href="https://www.youtube.com/watch?v=LU99DS6ocK8">[Recording, part 2]</a><br>
       <em>Moderator: Krastan Blagoev (National Science Foundation, Physics of Living Systems)</em>
       <ul>
         <li>Geetha Senthil, National Institutes of Health (NCATS)</li>
@@ -366,7 +366,7 @@ view: compact
   <div class="agenda-item" id="session-8">
     <div class="agenda-time">9:00 AM</div>
     <div class="agenda-content">
-      <strong>Session 8: Quantum Sensing</strong><br>
+      <strong>Session 8: Quantum Sensing</strong> <a href="https://www.youtube.com/watch?v=dlD48aT8xHQ">[Recording]</a><br>
       <em>Chair: Don Lamb (LMU Munich, Chemistry)</em>
       <ul>
         <li><strong>9:00 AM:</strong> Engineered Proteins for Quantum Sensing and Actuation in Cells — Yun Chen (Johns Hopkins University)</li> <!-- DON'T POST ONLINE -->
